@@ -182,11 +182,6 @@
       "claimUrl": "",
       "pip": [
         {
-          "name": "2428c20acbf020662ac0efc4e001ea19_raw.mp4",
-          "url": "assets/6769b535a092c18345befc68/pip/2428c20acbf020662ac0efc4e001ea19_raw.mp4",
-          "mediaType": "video"
-        },
-        {
           "name": "e9457d7bd4a0420ac96b3ad96e7e13cd.png",
           "url": "assets/6769b535a092c18345befc68/pip/e9457d7bd4a0420ac96b3ad96e7e13cd.png",
           "mediaType": "image"
@@ -401,11 +396,6 @@
       "claimText": "",
       "claimUrl": "",
       "pip": [
-        {
-          "name": "f929ae64ac905fdc7dbf42bc9e4549cc_raw.mp4",
-          "url": "assets/5ffb00c44dc5b8b974724b18/pip/f929ae64ac905fdc7dbf42bc9e4549cc_raw.mp4",
-          "mediaType": "video"
-        },
         {
           "name": "e39310f0f02fdb4057a2387877a8a1e4_raw.mp4",
           "url": "assets/5ffb00c44dc5b8b974724b18/pip/e39310f0f02fdb4057a2387877a8a1e4_raw.mp4",
@@ -626,5 +616,8 @@
       ]
     }
   ],
-  "skipped": []
+  "skipped": [
+    "assets/6769b535a092c18345befc68/pip/2428c20acbf020662ac0efc4e001ea19_raw.mp4（GitHub 未接受）",
+    "assets/5ffb00c44dc5b8b974724b18/pip/f929ae64ac905fdc7dbf42bc9e4549cc_raw.mp4（GitHub 未接受）"
+  ]
 }
