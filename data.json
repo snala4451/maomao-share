@@ -1,39 +1,9 @@
 {
-  "generatedAt": "2026-09-22T16:14:06.313Z",
+  "generatedAt": "2026-09-22T16:42:34.972Z",
   "items": [
-    {
-      "id": "85614f5e077fbbb3e66335b5",
-      "name": "DF-2.mp4",
-      "referencePath": "林子DF-成片/DF-2.mp4",
-      "referenceVideo": "DF-2.mp4",
-      "overlayTitle": "Skill越装越多，Codex反而越乱？",
-      "publishCopy": "Codex装了很多Skill还是不好用？问题可能出在任务路由#Codex #Codex实操 #CodexSkills #AI工作流 #效率工具",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "bc19fb43ba5d09c613045a459fee689a_raw.mp4",
-          "url": "assets/85614f5e077fbbb3e66335b5/pip/bc19fb43ba5d09c613045a459fee689a_raw.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "1fd7a46f512a792a01f2cd27bed18e52_raw.mp4",
-          "url": "assets/85614f5e077fbbb3e66335b5/pip/1fd7a46f512a792a01f2cd27bed18e52_raw.mp4",
-          "mediaType": "video"
-        }
-      ],
-      "claimFiles": [
-        {
-          "name": "Codex任务路由提示词与验收证据清单.pdf",
-          "url": "assets/85614f5e077fbbb3e66335b5/claim/Codex任务路由提示词与验收证据清单.pdf",
-          "mediaType": "document"
-        }
-      ]
-    },
     {
       "id": "8090b5f36ec2421ec56a3fcd",
       "name": "139c1fa300293a6141207bc770a199db_raw.mp4",
-      "referencePath": "网页上传/feifei/8090b5f36ec2421ec56a3fcd-139c1fa300293a6141207bc770a199db_raw.mp4",
       "referenceVideo": "139c1fa300293a6141207bc770a199db_raw.mp4",
       "overlayTitle": "",
       "publishCopy": "Codex5.6多Agent配置教程，Mac和Windows都能用#Codex #Codex实操 #Codex教程 #多Agent #AI工作流",
@@ -51,7 +21,6 @@
     {
       "id": "4e30bbd600dc05f724ee119c",
       "name": "8.30发布.MP4",
-      "referencePath": "网页上传/feifei/4e30bbd600dc05f724ee119c-8.30发布.MP4",
       "referenceVideo": "DF-1.mp4",
       "overlayTitle": "两步搞定安装Codex一键安装汉化包",
       "publishCopy": "Codex安装教程，傻瓜式操作#codex安装#ai#ai工具",
@@ -74,7 +43,6 @@
     {
       "id": "1ad4f1ec7286186cb7521c19",
       "name": "8.13发布.mp4",
-      "referencePath": "网页上传/feifei/1ad4f1ec7286186cb7521c19-8.13发布.mp4",
       "referenceVideo": "8.13发布.mp4",
       "overlayTitle": "",
       "publishCopy": "Codex总说废话？先改这3个个性化#Codex #Codex设置 #个性化设置 #自定义指令 #AI记忆 #AI工具 #人工智能",
@@ -86,7 +54,6 @@
     {
       "id": "4af16ee98ab89e98bee1007d",
       "name": "8.25发布.MP4",
-      "referencePath": "网页上传/feifei/4af16ee98ab89e98bee1007d-8.25发布.MP4",
       "referenceVideo": "8.25发布.MP4",
       "overlayTitle": "",
       "publishCopy": "一键部署17个部门，242个AI员工 #干货分享 #AI #github #人工智能 #AI工具",
@@ -98,7 +65,6 @@
     {
       "id": "2fbbe7a2b0ea1e834cb6ddb0",
       "name": "9.7发布.MP4",
-      "referencePath": "网页上传/feifei/2fbbe7a2b0ea1e834cb6ddb0-9.7发布.MP4",
       "referenceVideo": "9.7发布.MP4",
       "overlayTitle": "",
       "publishCopy": "3个让Codex任务不断档的方法#codex#大模型#个人开发者#提示词#skil",
@@ -110,7 +76,6 @@
     {
       "id": "875db6cbe0decd53225267ca",
       "name": "511062bdf4a436869e33a39b0dffa446_raw.mp4",
-      "referencePath": "网页上传/feifei/875db6cbe0decd53225267ca-511062bdf4a436869e33a39b0dffa446_raw.mp4",
       "referenceVideo": "511062bdf4a436869e33a39b0dffa446_raw.mp4",
       "overlayTitle": "",
       "publishCopy": "新agent配置技巧 GPT‑6 Astra不要过度堆砌Skill、AGENTS.md，老配置会浪费Token。\n可以直接让Astra审计、精简你的Agent配置，拿去直接测试。#AI #gpt6 #豆包 #豆包工作",
@@ -133,7 +98,6 @@
     {
       "id": "41a78c4de3054581a3d344b5",
       "name": "ad38847c99375228e66e085376e04167_raw.mp4",
-      "referencePath": "网页上传/feifei/41a78c4de3054581a3d344b5-ad38847c99375228e66e085376e04167_raw.mp4",
       "referenceVideo": "ad38847c99375228e66e085376e04167_raw.mp4",
       "overlayTitle": "codex装2个插件 直接成神",
       "publishCopy": "codex 成神的两个插件 两个插件让你的codex效率翻倍#codex#ai#ai赋能#ai实操",
@@ -147,477 +111,7 @@
           "mediaType": "document"
         }
       ]
-    },
-    {
-      "id": "2409edeaa18bd7c23472bad7",
-      "name": "DF-5.mp4",
-      "referencePath": "媛姐DF-成片/DF-5.mp4",
-      "referenceVideo": "DF-5.mp4",
-      "overlayTitle": "GPT-6 Astra先做一次指令债审计",
-      "publishCopy": "GPT-6 Astra越来越容易跑偏？先检查这些旧指令#Codex #GPT6Astra #Codex实操 #指令审计 #AI工作流",
-      "claimText": "“请对我的Codex代理设置进行一次指令债审计。先审计，不修改任何文件或设置。第一，盘点当前工作区能够访问的全局与项目级AGENTS.md、Skill名称和描述、必要的SKILL.md、代理定义、钩子、权限设置以及完成规则。区分哪些内容始终加载、哪些只用于Skill识别、哪些只在需要时读取，并标明作用范围、优先级、重复项和无法检查的内容。第二，检查Skill描述是否触发范围过宽或者互相重叠；SKILL.md是否存在不必要的强制阅读、重复规则和过期引用；AGENTS.md是否混入旧模型的变通规则、针对小任务的强制全项目检查，以及与当前修改无关的测试要求；权限设置是否审批过多或者授权边界模糊；完成规则是否缺少验证、容易提前结束或者存在没有退出条件的循环。保留有效的项目知识、构建命令、安全限制和必要审批，不要自动扩大权限。第三，只做纸面压力测试，不执行真实操作。分别模拟错别字修改、数据库迁移、需要视觉检查的UI改动、本地测试失败和需要审批的部署，记录每个场景会激活哪些指令、读取哪些文件、执行哪些动作、在哪里需要审批以及什么时候停止，并指出哪些规则会造成无用工作、冲突或者结果不完整。第四，针对每个问题提供文件路径和章节、简短的原文证据、可能造成的影响、处理建议以及可以直接替换的文本。按照影响程度和证据强度排序，并区分已经确认的问题和仍需验证的假设。第五，输出影响最大的问题、审计覆盖范围、访问缺口、场景演练结果、按文件整理的修改建议、最小清理批次，以及判断清理是否有效的检查方法。不要泄露敏感信息，不要安装工具，不要执行外部操作。报告完成后停止，等我确认以后再修改。”",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "2f91ef6b3f1851c9a29ef398458b3d69_raw.mp4",
-          "url": "assets/2409edeaa18bd7c23472bad7/pip/2f91ef6b3f1851c9a29ef398458b3d69_raw.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "846006a128f5a3ea6a2c2ecdabac1f6b_raw.mp4",
-          "url": "assets/2409edeaa18bd7c23472bad7/pip/846006a128f5a3ea6a2c2ecdabac1f6b_raw.mp4",
-          "mediaType": "video"
-        }
-      ],
-      "claimFiles": []
-    },
-    {
-      "id": "6769b535a092c18345befc68",
-      "name": "DF-4.mp4",
-      "referencePath": "媛姐DF-成片/DF-4.mp4",
-      "referenceVideo": "DF-4.mp4",
-      "overlayTitle": "Codex越用越慢？先清理这些指令",
-      "publishCopy": "Codex越来越慢，可能是指令太多了#Codex #Codex实操 #CodexSkills #指令清理 #AI工作流",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "e9457d7bd4a0420ac96b3ad96e7e13cd.png",
-          "url": "assets/6769b535a092c18345befc68/pip/e9457d7bd4a0420ac96b3ad96e7e13cd.png",
-          "mediaType": "image"
-        }
-      ],
-      "claimFiles": [
-        {
-          "name": "Codex指令检查提示词与清理清单.pdf",
-          "url": "assets/6769b535a092c18345befc68/claim/Codex指令检查提示词与清理清单.pdf",
-          "mediaType": "document"
-        }
-      ]
-    },
-    {
-      "id": "b586fd5478cb5bdc85bd9d49",
-      "name": "DF-3.mp4",
-      "referencePath": "媛姐DF-成片/DF-3.mp4",
-      "referenceVideo": "DF-3.mp4",
-      "overlayTitle": "Codex最值得装的10个Skill",
-      "publishCopy": "Codex这10个Skill，覆盖找资料、做内容和项目交付#Codex #Codex实操 #CodexSkills #AI工作流 #效率工具",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "5Punk skill.png",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/pip/5Punk skill.png",
-          "mediaType": "image"
-        },
-        {
-          "name": "4-Punk Skill.mp4",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/pip/4-Punk Skill.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "3-Defuddle.mp4",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/pip/3-Defuddle.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "2-last30days.mp4",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/pip/2-last30days.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "1-follow-builders.mp4",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/pip/1-follow-builders.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "10-skill-creator.mp4",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/pip/10-skill-creator.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "9-grill-me.mp4",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/pip/9-grill-me.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "8-show-me.mp4",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/pip/8-show-me.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "7-GordenImage2PPTX.mp4",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/pip/7-GordenImage2PPTX.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "6-cangjie-skill.mp4",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/pip/6-cangjie-skill.mp4",
-          "mediaType": "video"
-        }
-      ],
-      "claimFiles": [
-        {
-          "name": "Codex-10个Skills安装与实操手册.pdf",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/claim/Codex-10个Skills安装与实操手册.pdf",
-          "mediaType": "document"
-        }
-      ]
-    },
-    {
-      "id": "ed5dd1454dd33af91a28cd7b",
-      "name": "DF-1.mp4",
-      "referencePath": "媛姐DF-成片/DF-1.mp4",
-      "referenceVideo": "DF-1.mp4",
-      "overlayTitle": "Codex1个skill 就能去ai味",
-      "publishCopy": "如果你也在用Codex，千万别错过这个Skill。记得收藏和安装。让你的AI告别AI味#Codex#AI技巧#Skill分享#去AI味#AI新手村#codex教学",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "c520be2af1909a6e9ddf7dec40fc1487_raw.mp4",
-          "url": "assets/ed5dd1454dd33af91a28cd7b/pip/c520be2af1909a6e9ddf7dec40fc1487_raw.mp4",
-          "mediaType": "video"
-        }
-      ],
-      "claimFiles": [
-        {
-          "name": "humanize-chinese-writing-skill-final-2026-09-02.zip",
-          "url": "assets/ed5dd1454dd33af91a28cd7b/claim/humanize-chinese-writing-skill-final-2026-09-02.zip",
-          "mediaType": "other"
-        }
-      ]
-    },
-    {
-      "id": "20f1e2587662b48f62ba2eb7",
-      "name": "DF-2.mp4",
-      "referencePath": "媛姐DF-成片/DF-2.mp4",
-      "referenceVideo": "DF-2.mp4",
-      "overlayTitle": "别再让员工各玩各的Codex",
-      "publishCopy": "公司应该有一份Codex使用说明书#Codex #Codex教程 #企业AI #AI工作流 #老板学AI",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "e9c8f87a4ea8f9b9ec393647991a3726_raw.mp4",
-          "url": "assets/20f1e2587662b48f62ba2eb7/pip/e9c8f87a4ea8f9b9ec393647991a3726_raw.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "928835f9b288071e8035b57aee770d3c_raw.mp4",
-          "url": "assets/20f1e2587662b48f62ba2eb7/pip/928835f9b288071e8035b57aee770d3c_raw.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "077dc47082d576ab205fdf246ea96a58_raw.mp4",
-          "url": "assets/20f1e2587662b48f62ba2eb7/pip/077dc47082d576ab205fdf246ea96a58_raw.mp4",
-          "mediaType": "video"
-        }
-      ],
-      "claimFiles": [
-        {
-          "name": "Codex公司版团队工作提示词.pdf",
-          "url": "assets/20f1e2587662b48f62ba2eb7/claim/Codex公司版团队工作提示词.pdf",
-          "mediaType": "document"
-        }
-      ]
-    },
-    {
-      "id": "a889c23e642b2dfd488ec8b6",
-      "name": "9.2发布.mp4",
-      "referencePath": "李保刚/成片/9.2发布.mp4",
-      "referenceVideo": "bd9e503a4a90c32746972fceb5480371_raw.mp4",
-      "overlayTitle": "Codex新功能！电脑历史一键参考",
-      "publishCopy": "Codex 新功能 一招让你提高工作效率 #抖音创作者大会 #computerhistory #codex #AI编程 #AI工作流",
-      "claimText": "领取提示词：\n请定期总结我电脑上的近期操作记录。\n\n任务目标：\n基于 Computer History 中可用的本地活动记录，总结我在指定时间窗口内的主要电脑操作、工作上下文、任务进展和可执行后续事项。\n\n时间范围：\n总结本次运行前的最近 {时间范围}，例如最近 1 小时 / 最近 6 小时 / 今天 09:00 到现在。\n\n数据使用要求：\n1. 先检查 Computer History 当前状态和可用记录时间范围。\n2. 只使用 Computer History 中实际记录到的证据，不要编造未观察到的活动。\n3. 如果记录缺失、暂停、停止或时间范围不完整，请在报告开头明确说明。\n4. 对网页、应用、文件、窗口标题、选中文本等信息进行归纳，而不是逐条流水账复述。\n5. 不要泄露敏感内容的完整原文，例如密码、验证码、私密聊天、银行卡、身份证、API Key、医疗或法律隐私信息。如发现疑似敏感内容，只做脱敏概括。\n\n输出格式：\n请使用以下结构输出：\n\n# 电脑操作总结\n\n## 1. 总体概览\n用 3-5 句话总结这段时间主要在做什么、工作重心是什么、是否存在明显的上下文切换。\n\n## 2. 时间线\n按时间顺序列出关键活动，每条包含：\n- 时间段\n- 应用或网站\n- 操作概括\n- 可能对应的任务或目的\n\n## 3. 主要任务\n归纳出 1-5 个主要任务。每个任务包含：\n- 任务名称\n- 相关应用 / 网站 / 文件\n- 已完成的动作\n- 当前进展判断\n- 仍未完成或可能需要继续的事项\n\n## 4. 注意事项\n列出可能值得我注意的内容，例如：\n- 长时间停留但没有明显产出的任务\n- 频繁切换导致的上下文碎片\n- 可能遗漏的后续动作\n- 需要回到某个网页、文档或代码位置继续处理的事项\n\n## 5. 下一步建议\n给出具体、可执行的下一步建议，不要泛泛而谈。每条建议尽量包含动作对象和原因。\n\n质量要求：\n- 语言简洁、客观、像工作日志，不要写成情绪化评价。\n- 区分“观察到的事实”和“基于事实的推断”。\n- 如果无法判断目的，请明确写“无法从记录判断”。\n- 不要输出无关的系统事件、后台噪音或重复窗口切换，除非它们影响工作判断",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "cf249f6e94d9e781109355f98145a568_raw.mp4",
-          "url": "assets/a889c23e642b2dfd488ec8b6/pip/cf249f6e94d9e781109355f98145a568_raw.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "971b4230c71b74ded4206ee1982bfaee_raw.mp4",
-          "url": "assets/a889c23e642b2dfd488ec8b6/pip/971b4230c71b74ded4206ee1982bfaee_raw.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "36adc995ac4207b55ad7b00747a5439c_raw.mp4",
-          "url": "assets/a889c23e642b2dfd488ec8b6/pip/36adc995ac4207b55ad7b00747a5439c_raw.mp4",
-          "mediaType": "video"
-        }
-      ],
-      "claimFiles": []
-    },
-    {
-      "id": "de4f0effa5d5409fddce30b0",
-      "name": "9.2发布.mp4",
-      "referencePath": "周芸芸/成片/9.2发布.mp4",
-      "referenceVideo": "9.2发布.mp4",
-      "overlayTitle": "Codex越用越笨很多人忽略了这一点",
-      "publishCopy": "长时间用Codex，一定要学会清理上下文#Codex #AI工具 #AI编程 #提示词 #效率工具",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [],
-      "claimFiles": [
-        {
-          "name": "Codex长任务上下文清理模板.pdf",
-          "url": "assets/de4f0effa5d5409fddce30b0/claim/Codex长任务上下文清理模板.pdf",
-          "mediaType": "document"
-        }
-      ]
-    },
-    {
-      "id": "48c86716d2a87853de4aa427",
-      "name": "9.5发布.MP4",
-      "referencePath": "周芸芸/成片/9.5发布.MP4",
-      "referenceVideo": "9.5发布.MP4",
-      "overlayTitle": "codex开放权重后，AI工作流巨变",
-      "publishCopy": "真正会用AI的人，已经开始搭自己的工作流了#AI工具 #AI工作流 #人工智能 #效率提升 #个人成长",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "0a27f74a1b187f763c6c3bc5d4c4bed0.png",
-          "url": "assets/48c86716d2a87853de4aa427/pip/0a27f74a1b187f763c6c3bc5d4c4bed0.png",
-          "mediaType": "image"
-        }
-      ],
-      "claimFiles": []
-    },
-    {
-      "id": "5ffb00c44dc5b8b974724b18",
-      "name": "9.4发布.MP4",
-      "referencePath": "周芸芸/成片/9.4发布.MP4",
-      "referenceVideo": "9.4发布.MP4",
-      "overlayTitle": "治好AI瞎写代码 skil直接给ai立规矩",
-      "publishCopy": "ai瞎写代码终于有救了，这个项目直接给它立规矩 #ai #skill #vibecoding",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "e39310f0f02fdb4057a2387877a8a1e4_raw.mp4",
-          "url": "assets/5ffb00c44dc5b8b974724b18/pip/e39310f0f02fdb4057a2387877a8a1e4_raw.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "b333725cf8630f72fff4cce45a14da84.png",
-          "url": "assets/5ffb00c44dc5b8b974724b18/pip/b333725cf8630f72fff4cce45a14da84.png",
-          "mediaType": "image"
-        },
-        {
-          "name": "ae7b6497a0d2f48917e2f46e9c0473c6_raw.mp4",
-          "url": "assets/5ffb00c44dc5b8b974724b18/pip/ae7b6497a0d2f48917e2f46e9c0473c6_raw.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "bb4668e3720fdbcc30f7a5a7a523fc28_raw.mp4",
-          "url": "assets/5ffb00c44dc5b8b974724b18/pip/bb4668e3720fdbcc30f7a5a7a523fc28_raw.mp4",
-          "mediaType": "video"
-        }
-      ],
-      "claimFiles": []
-    },
-    {
-      "id": "729c83ca7ce378236764c6f0",
-      "name": "8.28发布.mp4",
-      "referencePath": "李保刚/成片/8.28发布.mp4",
-      "referenceVideo": "0485079adef2eb75fb58399ac2682ccc_raw.mp4",
-      "overlayTitle": "Codex的神奇玩法 很多人没发现",
-      "publishCopy": "Codex的神级玩法，很多人还没发现 #AI #Codex #AI智能体 #AI超级个体",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "36dd81cf653cf06754f802768360b08e_raw.mp4",
-          "url": "assets/729c83ca7ce378236764c6f0/pip/36dd81cf653cf06754f802768360b08e_raw.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "2ce820925ca884eb9a75aeb9a2ef62ff_raw.mp4",
-          "url": "assets/729c83ca7ce378236764c6f0/pip/2ce820925ca884eb9a75aeb9a2ef62ff_raw.mp4",
-          "mediaType": "video"
-        }
-      ],
-      "claimFiles": [
-        {
-          "name": "Codex插件筛选提示词与常用插件适用场景.pdf",
-          "url": "assets/729c83ca7ce378236764c6f0/claim/Codex插件筛选提示词与常用插件适用场景.pdf",
-          "mediaType": "document"
-        }
-      ]
-    },
-    {
-      "id": "86fddf68b4e599f523dd94a8",
-      "name": "8.25发布.mp4",
-      "referencePath": "李保刚/成片/8.25发布.mp4",
-      "referenceVideo": "8.25发布.mp4",
-      "overlayTitle": "codex总在压缩上下文？这样处理",
-      "publishCopy": "Codex频繁压缩上下文怎么办？用这两段指令重新开工#Codex #Codex实操 #上下文管理 #GPT56 #AI工作流",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "第一张.png",
-          "url": "assets/86fddf68b4e599f523dd94a8/pip/第一张.png",
-          "mediaType": "image"
-        },
-        {
-          "name": "第三张.png",
-          "url": "assets/86fddf68b4e599f523dd94a8/pip/第三张.png",
-          "mediaType": "image"
-        },
-        {
-          "name": "第二张.png",
-          "url": "assets/86fddf68b4e599f523dd94a8/pip/第二张.png",
-          "mediaType": "image"
-        }
-      ],
-      "claimFiles": []
-    },
-    {
-      "id": "31daa247f182e81a9066cc60",
-      "name": "8.26发布.mp4",
-      "referencePath": "李保刚/成片/8.26发布.mp4",
-      "referenceVideo": "8.26发布.mp4",
-      "overlayTitle": "高手用codex，3个流程拉开差距",
-      "publishCopy": "别每次都重新教 Codex，把重复任务沉淀成 Skill#Codex #Skill #AI工具 #AI提效 #AI工作流 #AI自动化 #普通人学AI #数字员工 #效率工具",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [],
-      "claimFiles": [
-        {
-          "name": "Codex Skill提炼与落地资料包_金融行业版.pdf",
-          "url": "assets/31daa247f182e81a9066cc60/claim/Codex Skill提炼与落地资料包_金融行业版.pdf",
-          "mediaType": "document"
-        },
-        {
-          "name": "Codex-Skill可复制模板.md",
-          "url": "assets/31daa247f182e81a9066cc60/claim/Codex-Skill可复制模板.md",
-          "mediaType": "text"
-        }
-      ]
-    },
-    {
-      "id": "ff4a704de35b44f8191aea20",
-      "name": "8月25日发布.mp4",
-      "referencePath": "Tina/成片/8月25日发布.mp4",
-      "referenceVideo": "8月25日发布.mp4",
-      "overlayTitle": "codex总在压缩上下文？这样处理",
-      "publishCopy": "Codex频繁压缩上下文怎么办？用这两段指令重新开工#Codex #Codex实操 #上下文管理 #GPT56 #AI工作流",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "第一张.png",
-          "url": "assets/ff4a704de35b44f8191aea20/pip/第一张.png",
-          "mediaType": "image"
-        },
-        {
-          "name": "第三张.png",
-          "url": "assets/ff4a704de35b44f8191aea20/pip/第三张.png",
-          "mediaType": "image"
-        },
-        {
-          "name": "第二张.png",
-          "url": "assets/ff4a704de35b44f8191aea20/pip/第二张.png",
-          "mediaType": "image"
-        }
-      ],
-      "claimFiles": []
-    },
-    {
-      "id": "1a9e61e21f5fa8edbc923664",
-      "name": "8月11日发布.mp4",
-      "referencePath": "缪洢玲/成片/8月11日发布.mp4",
-      "referenceVideo": "8月11日发布.mp4",
-      "overlayTitle": "3个Skill让Codex效率翻倍",
-      "publishCopy": "Codex隐藏技能大公开！自用3个超实用插件#ai #我在抖音聊科技 #skill #codex #短视频干货",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [],
-      "claimFiles": []
-    },
-    {
-      "id": "2f6f4649cbf63533e194f51d",
-      "name": "8月14日发布.mp4",
-      "referencePath": "缪洢玲/成片/8月14日发布.mp4",
-      "referenceVideo": "8月14日发布.mp4",
-      "overlayTitle": "44万Star爆火 AI视频工厂来了",
-      "publishCopy": "连夜冲上热榜第一，AI全自动视频生产开源智能体！#OpenMontage #AI视频 #AI剪辑 #codex #Agent",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [],
-      "claimFiles": []
-    },
-    {
-      "id": "29b2c2cf91edc151ae14ddd3",
-      "name": "8月10日发布.mp4",
-      "referencePath": "缪洢玲/成片/8月10日发布.mp4",
-      "referenceVideo": "8月10日发布.mp4",
-      "overlayTitle": "3个Skill让Codex效率翻倍",
-      "publishCopy": "新手小白codex必备的三个skill #codex #ai #codedex使用教程 #电脑小白知识普及 #aigc",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [],
-      "claimFiles": []
-    },
-    {
-      "id": "fced016dbbb011f342e28898",
-      "name": "8月19日发布.mp4",
-      "referencePath": "Tina/成片/8月19日发布.mp4",
-      "referenceVideo": "8月19日发布.mp4",
-      "overlayTitle": "让codex直接操作 Photoshop！太牛了",
-      "publishCopy": "别再把图片发给 Codex 了，让它直接操作 Photoshop#Codex #Photoshop #AI修图 #AI工具 #AI工作流",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "97bbf69b013422c58279e882d25c7e98_raw.mp4",
-          "url": "assets/fced016dbbb011f342e28898/pip/97bbf69b013422c58279e882d25c7e98_raw.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "0b80174520703a12803f7ecd93032394_raw.mp4",
-          "url": "assets/fced016dbbb011f342e28898/pip/0b80174520703a12803f7ecd93032394_raw.mp4",
-          "mediaType": "video"
-        }
-      ],
-      "claimFiles": []
-    },
-    {
-      "id": "e8122856e326cc6c8367ad45",
-      "name": "8月3日发布.mp4",
-      "referencePath": "缪洢玲/成片/8月3日发布.mp4",
-      "referenceVideo": "8月3日发布.mp4",
-      "overlayTitle": "让codex直接操作 Photoshop！太牛了",
-      "publishCopy": "别再把图片发给 Codex 了，让它直接操作 Photoshop#Codex #Photoshop #AI修图 #AI工具 #AI工作流",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "97bbf69b013422c58279e882d25c7e98_raw.mp4",
-          "url": "assets/e8122856e326cc6c8367ad45/pip/97bbf69b013422c58279e882d25c7e98_raw.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "0b80174520703a12803f7ecd93032394_raw.mp4",
-          "url": "assets/e8122856e326cc6c8367ad45/pip/0b80174520703a12803f7ecd93032394_raw.mp4",
-          "mediaType": "video"
-        }
-      ],
-      "claimFiles": [
-        {
-          "name": "Codex操作Photoshop实操提示词手册.pdf",
-          "url": "assets/e8122856e326cc6c8367ad45/claim/Codex操作Photoshop实操提示词手册.pdf",
-          "mediaType": "document"
-        }
-      ]
     }
   ],
-  "skipped": [
-    "assets/6769b535a092c18345befc68/pip/2428c20acbf020662ac0efc4e001ea19_raw.mp4（GitHub 未接受）",
-    "assets/5ffb00c44dc5b8b974724b18/pip/f929ae64ac905fdc7dbf42bc9e4549cc_raw.mp4（GitHub 未接受）"
-  ]
+  "skipped": []
 }
