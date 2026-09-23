@@ -172,11 +172,6 @@
       "claimUrl": "",
       "pip": [
         {
-          "name": "Codex越用越慢先清理这些指令-画中画-01.mp4",
-          "url": "assets/6769b535a092c18345befc68/pip/Codex越用越慢先清理这些指令-画中画-01.mp4",
-          "mediaType": "video"
-        },
-        {
           "name": "Codex越用越慢先清理这些指令-画中画-02.png",
           "url": "assets/6769b535a092c18345befc68/pip/Codex越用越慢先清理这些指令-画中画-02.png",
           "mediaType": "image"
@@ -212,11 +207,6 @@
         {
           "name": "Codex最值得装的10个Skill-画中画-03.mp4",
           "url": "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-03.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "Codex最值得装的10个Skill-画中画-04.mp4",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-04.mp4",
           "mediaType": "video"
         },
         {
@@ -293,11 +283,6 @@
         {
           "name": "别再让员工各玩各的Codex-画中画-01.mp4",
           "url": "assets/20f1e2587662b48f62ba2eb7/pip/别再让员工各玩各的Codex-画中画-01.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "别再让员工各玩各的Codex-画中画-02.mp4",
-          "url": "assets/20f1e2587662b48f62ba2eb7/pip/别再让员工各玩各的Codex-画中画-02.mp4",
           "mediaType": "video"
         },
         {
@@ -600,5 +585,9 @@
       ]
     }
   ],
-  "skipped": []
+  "skipped": [
+    "assets/6769b535a092c18345befc68/pip/Codex越用越慢先清理这些指令-画中画-01.mp4（GitHub 未接受）",
+    "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-04.mp4（GitHub 未接受）",
+    "assets/20f1e2587662b48f62ba2eb7/pip/别再让员工各玩各的Codex-画中画-02.mp4（GitHub 未接受）"
+  ]
 }
