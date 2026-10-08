@@ -1,6 +1,23 @@
 {
-  "generatedAt": "2026-10-08T08:20:37.095Z",
+  "generatedAt": "2026-10-08T08:25:07.698Z",
   "items": [
+    {
+      "id": "6551b8588a9121f616bd6c34",
+      "name": "10.8.mp4",
+      "referenceVideo": "10.8.mp4",
+      "overlayTitle": "怎么样能让codex能力翻倍",
+      "publishCopy": "怎么样能让codex能力翻倍#Codex#GPT#ai#ai教程#skill",
+      "claimText": "",
+      "claimUrl": "",
+      "pip": [
+        {
+          "name": "怎么样能让codex能力翻倍-画中画-01.mp4",
+          "url": "assets/6551b8588a9121f616bd6c34/pip/怎么样能让codex能力翻倍-画中画-01.mp4",
+          "mediaType": "video"
+        }
+      ],
+      "claimFiles": []
+    },
     {
       "id": "d010734edf57e993ee4c63e4",
       "name": "9月24日3.mp4",
