@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T06:27:29.609Z",
+  "generatedAt": "2026-10-08T08:20:37.095Z",
   "items": [
     {
       "id": "d010734edf57e993ee4c63e4",
@@ -13,6 +13,11 @@
         {
           "name": "标题codex直接接管手机全自动操作-画中画-01.mp4",
           "url": "assets/d010734edf57e993ee4c63e4/pip/标题codex直接接管手机全自动操作-画中画-01.mp4",
+          "mediaType": "video"
+        },
+        {
+          "name": "标题codex直接接管手机全自动操作-画中画-02.mp4",
+          "url": "assets/d010734edf57e993ee4c63e4/pip/标题codex直接接管手机全自动操作-画中画-02.mp4",
           "mediaType": "video"
         }
       ],
@@ -56,6 +61,11 @@
       "claimUrl": "",
       "pip": [
         {
+          "name": "Skill越装越多,Codex反而越乱-画中画-01.mp4",
+          "url": "assets/85614f5e077fbbb3e66335b5/pip/Skill越装越多,Codex反而越乱-画中画-01.mp4",
+          "mediaType": "video"
+        },
+        {
           "name": "Skill越装越多,Codex反而越乱-画中画-02.mp4",
           "url": "assets/85614f5e077fbbb3e66335b5/pip/Skill越装越多,Codex反而越乱-画中画-02.mp4",
           "mediaType": "video"
@@ -98,6 +108,11 @@
         {
           "name": "两步搞定安装Codex一键安装汉化包-画中画-01.png",
           "url": "assets/4e30bbd600dc05f724ee119c/pip/两步搞定安装Codex一键安装汉化包-画中画-01.png",
+          "mediaType": "image"
+        },
+        {
+          "name": "两步搞定安装Codex一键安装汉化包-画中画-02.png",
+          "url": "assets/4e30bbd600dc05f724ee119c/pip/两步搞定安装Codex一键安装汉化包-画中画-02.png",
           "mediaType": "image"
         }
       ],
@@ -207,12 +222,23 @@
       "claimUrl": "",
       "pip": [
         {
+          "name": "Codex越用越慢先清理这些指令-画中画-01.mp4",
+          "url": "assets/6769b535a092c18345befc68/pip/Codex越用越慢先清理这些指令-画中画-01.mp4",
+          "mediaType": "video"
+        },
+        {
           "name": "Codex越用越慢先清理这些指令-画中画-02.png",
           "url": "assets/6769b535a092c18345befc68/pip/Codex越用越慢先清理这些指令-画中画-02.png",
           "mediaType": "image"
         }
       ],
-      "claimFiles": []
+      "claimFiles": [
+        {
+          "name": "Codex越用越慢先清理这些指令-领取资料-01.pdf",
+          "url": "assets/6769b535a092c18345befc68/claim/Codex越用越慢先清理这些指令-领取资料-01.pdf",
+          "mediaType": "document"
+        }
+      ]
     },
     {
       "id": "b586fd5478cb5bdc85bd9d49",
@@ -624,11 +650,5 @@
       ]
     }
   ],
-  "skipped": [
-    "assets/d010734edf57e993ee4c63e4/pip/标题codex直接接管手机全自动操作-画中画-02.mp4（GitHub 未接受）",
-    "assets/85614f5e077fbbb3e66335b5/pip/Skill越装越多,Codex反而越乱-画中画-01.mp4（GitHub 未接受）",
-    "assets/4e30bbd600dc05f724ee119c/pip/两步搞定安装Codex一键安装汉化包-画中画-02.png（GitHub 未接受）",
-    "assets/6769b535a092c18345befc68/claim/Codex越用越慢先清理这些指令-领取资料-01.pdf（GitHub 未接受）",
-    "assets/6769b535a092c18345befc68/pip/Codex越用越慢先清理这些指令-画中画-01.mp4（GitHub 未接受）"
-  ]
+  "skipped": []
 }
