@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-08T06:20:24.500Z",
+  "generatedAt": "2026-10-08T06:25:27.115Z",
   "items": [
+    {
+      "id": "d010734edf57e993ee4c63e4",
+      "name": "9月24日3.mp4",
+      "referenceVideo": "9月24日3.mp4",
+      "overlayTitle": "",
+      "publishCopy": "",
+      "claimText": "",
+      "claimUrl": "",
+      "pip": [
+        {
+          "name": "9月24日3-画中画-01.mp4",
+          "url": "assets/d010734edf57e993ee4c63e4/pip/9月24日3-画中画-01.mp4",
+          "mediaType": "video"
+        },
+        {
+          "name": "9月24日3-画中画-02.mp4",
+          "url": "assets/d010734edf57e993ee4c63e4/pip/9月24日3-画中画-02.mp4",
+          "mediaType": "video"
+        }
+      ],
+      "claimFiles": []
+    },
     {
       "id": "0e2d7146d9fa4140d9fc1d62",
       "name": "26.8.28.2.mp4",
