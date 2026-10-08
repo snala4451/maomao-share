@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-10-08T08:32:59.125Z",
+  "generatedAt": "2026-10-08T08:37:18.015Z",
   "items": [
+    {
+      "id": "8a8c9d6ce9ab772dcd17a62d",
+      "name": "DF-4.mp4",
+      "referenceVideo": "DF-4.mp4",
+      "overlayTitle": "codex一句想法变成提示词提示词优化神器",
+      "publishCopy": "一句想法变成完整提示词预置大量规则和文档#提示词 #提示词优化 #GitHub #效率工具",
+      "claimText": "",
+      "claimUrl": "",
+      "pip": [
+        {
+          "name": "codex一句想法变成提示词提示词优化神器-画中画-01.mp4",
+          "url": "assets/8a8c9d6ce9ab772dcd17a62d/pip/codex一句想法变成提示词提示词优化神器-画中画-01.mp4",
+          "mediaType": "video"
+        }
+      ],
+      "claimFiles": []
+    },
+    {
+      "id": "70933e42d373586b97b7c87d",
+      "name": "DF-3.mp4",
+      "referenceVideo": "DF-3.mp4",
+      "overlayTitle": "codex直接接管手机全自动操作",
+      "publishCopy": "codex直接接管手机全自动操作#Codex #AI智能体 #开源项目 #手机自动化",
+      "claimText": "",
+      "claimUrl": "",
+      "pip": [],
+      "claimFiles": []
+    },
     {
       "id": "6551b8588a9121f616bd6c34",
       "name": "10.8.mp4",
