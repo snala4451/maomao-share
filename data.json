@@ -455,11 +455,6 @@
       "claimUrl": "",
       "pip": [
         {
-          "name": "Codex的神奇玩法-很多人没发现-画中画-01.mp4",
-          "url": "assets/729c83ca7ce378236764c6f0/pip/Codex的神奇玩法-很多人没发现-画中画-01.mp4",
-          "mediaType": "video"
-        },
-        {
           "name": "Codex的神奇玩法-很多人没发现-画中画-02.mp4",
           "url": "assets/729c83ca7ce378236764c6f0/pip/Codex的神奇玩法-很多人没发现-画中画-02.mp4",
           "mediaType": "video"
@@ -511,11 +506,6 @@
       "pip": [],
       "claimFiles": [
         {
-          "name": "高手用codex,3个流程拉开差距-领取资料-01.pdf",
-          "url": "assets/31daa247f182e81a9066cc60/claim/高手用codex,3个流程拉开差距-领取资料-01.pdf",
-          "mediaType": "document"
-        },
-        {
           "name": "高手用codex,3个流程拉开差距-领取资料-02.md",
           "url": "assets/31daa247f182e81a9066cc60/claim/高手用codex,3个流程拉开差距-领取资料-02.md",
           "mediaType": "text"
@@ -531,16 +521,6 @@
       "claimText": "",
       "claimUrl": "",
       "pip": [
-        {
-          "name": "codex总在压缩上下文这样处理-画中画-01.png",
-          "url": "assets/ff4a704de35b44f8191aea20/pip/codex总在压缩上下文这样处理-画中画-01.png",
-          "mediaType": "image"
-        },
-        {
-          "name": "codex总在压缩上下文这样处理-画中画-02.png",
-          "url": "assets/ff4a704de35b44f8191aea20/pip/codex总在压缩上下文这样处理-画中画-02.png",
-          "mediaType": "image"
-        },
         {
           "name": "codex总在压缩上下文这样处理-画中画-03.png",
           "url": "assets/ff4a704de35b44f8191aea20/pip/codex总在压缩上下文这样处理-画中画-03.png",
@@ -592,11 +572,6 @@
       "claimUrl": "",
       "pip": [
         {
-          "name": "让codex直接操作-Photoshop!太牛了-画中画-01.mp4",
-          "url": "assets/fced016dbbb011f342e28898/pip/让codex直接操作-Photoshop!太牛了-画中画-01.mp4",
-          "mediaType": "video"
-        },
-        {
           "name": "让codex直接操作-Photoshop!太牛了-画中画-02.mp4",
           "url": "assets/fced016dbbb011f342e28898/pip/让codex直接操作-Photoshop!太牛了-画中画-02.mp4",
           "mediaType": "video"
@@ -633,5 +608,11 @@
       ]
     }
   ],
-  "skipped": []
+  "skipped": [
+    "assets/729c83ca7ce378236764c6f0/pip/Codex的神奇玩法-很多人没发现-画中画-01.mp4（GitHub 未接受）",
+    "assets/31daa247f182e81a9066cc60/claim/高手用codex,3个流程拉开差距-领取资料-01.pdf（GitHub 未接受）",
+    "assets/ff4a704de35b44f8191aea20/pip/codex总在压缩上下文这样处理-画中画-01.png（GitHub 未接受）",
+    "assets/ff4a704de35b44f8191aea20/pip/codex总在压缩上下文这样处理-画中画-02.png（GitHub 未接受）",
+    "assets/fced016dbbb011f342e28898/pip/让codex直接操作-Photoshop!太牛了-画中画-01.mp4（GitHub 未接受）"
+  ]
 }
