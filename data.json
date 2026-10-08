@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T08:37:18.015Z",
+  "generatedAt": "2026-10-08T08:43:17.528Z",
   "items": [
     {
       "id": "8a8c9d6ce9ab772dcd17a62d",
@@ -26,7 +26,18 @@
       "publishCopy": "codex直接接管手机全自动操作#Codex #AI智能体 #开源项目 #手机自动化",
       "claimText": "",
       "claimUrl": "",
-      "pip": [],
+      "pip": [
+        {
+          "name": "codex直接接管手机全自动操作-画中画-01.mp4",
+          "url": "assets/70933e42d373586b97b7c87d/pip/codex直接接管手机全自动操作-画中画-01.mp4",
+          "mediaType": "video"
+        },
+        {
+          "name": "codex直接接管手机全自动操作-画中画-02.mp4",
+          "url": "assets/70933e42d373586b97b7c87d/pip/codex直接接管手机全自动操作-画中画-02.mp4",
+          "mediaType": "video"
+        }
+      ],
       "claimFiles": []
     },
     {
@@ -44,7 +55,13 @@
           "mediaType": "video"
         }
       ],
-      "claimFiles": []
+      "claimFiles": [
+        {
+          "name": "怎么样能让codex能力翻倍-领取资料-01.pdf",
+          "url": "assets/6551b8588a9121f616bd6c34/claim/怎么样能让codex能力翻倍-领取资料-01.pdf",
+          "mediaType": "document"
+        }
+      ]
     },
     {
       "id": "d010734edf57e993ee4c63e4",
