@@ -132,11 +132,6 @@
           "name": "Skill越装越多,Codex反而越乱-画中画-01.mp4",
           "url": "assets/85614f5e077fbbb3e66335b5/pip/Skill越装越多,Codex反而越乱-画中画-01.mp4",
           "mediaType": "video"
-        },
-        {
-          "name": "Skill越装越多,Codex反而越乱-画中画-02.mp4",
-          "url": "assets/85614f5e077fbbb3e66335b5/pip/Skill越装越多,Codex反而越乱-画中画-02.mp4",
-          "mediaType": "video"
         }
       ],
       "claimFiles": [
@@ -157,13 +152,7 @@
       "claimText": "",
       "claimUrl": "",
       "pip": [],
-      "claimFiles": [
-        {
-          "name": "Codex5.6多Agent配置教程,Mac和Windows都能用#Codex-#Codex实操-#Codex教-领取资料-01.pdf",
-          "url": "assets/8090b5f36ec2421ec56a3fcd/claim/Codex5.6多Agent配置教程,Mac和Windows都能用#Codex-#Codex实操-#Codex教",
-          "mediaType": "document"
-        }
-      ]
+      "claimFiles": []
     },
     {
       "id": "4e30bbd600dc05f724ee119c",
@@ -203,7 +192,7 @@
     {
       "id": "4af16ee98ab89e98bee1007d",
       "title": "一键部署17个部门，242个AI员工 #干货分享 #AI #github #人工智能 #AI工具",
-      "referencePreview": "assets/4af16ee98ab89e98bee1007d/reference/preview.mp4",
+      "referencePreview": "",
       "overlayTitle": "",
       "scriptText": "朋友们,又看到了一个超级变态的项目啊,就这个伙伴,他最近把所有的工作都做成了一个ai 员工,更夸张的是这个项目还免费开源,现在星标已经冲到了13.1万了,上一次看到这么夸张的热度还是那个小龙虾项目,你看它里面都有什么,前端开发,ui 设计,自媒体运营,销售,甚至人工智能工程师和高级开发人员,基本上你能想到的岗位他都给你配置好了,而且横跨了大概17个不同的部门,最关键的是里面集成了大量高度专业化的提示库,什么意思呢,你只要把对应的内容丢进自己的ai 工具里,就等于直接拥有一支ai 团队,这哪是普通员工啊,简直就是特种兵集合,我整理好了,关注我,评论区扣,项目,找我发给你吧",
       "publishCopy": "一键部署17个部门，242个AI员工 #干货分享 #AI #github #人工智能 #AI工具",
@@ -215,7 +204,7 @@
     {
       "id": "2fbbe7a2b0ea1e834cb6ddb0",
       "title": "3个让Codex任务不断档的方法#codex#大模型#个人开发者#提示词#skil",
-      "referencePreview": "assets/2fbbe7a2b0ea1e834cb6ddb0/reference/preview.mp4",
+      "referencePreview": "",
       "overlayTitle": "",
       "scriptText": "Codex 有一个很值得养成的收尾习惯。结束长对话之前,先去留一份交接。先让他写一份 handoff 的 md 把五件事全部给他说清楚,我们现在做什么、已经完成了什么、当前卡在哪、下一步计划是什么、有哪些踩过的坑绝对不要再踩。下次新开一个会话,只说一句,先读 handoff 的 md。新会话就知道从哪里开始接着做,不用重新地去解释,也不用再走一遍弯路。我把这个提示词整理好了,评论区扣“收尾”我发给你,关注我,后面继续分享更多Codex解决电脑问题的实操方法。",
       "publishCopy": "3个让Codex任务不断档的方法#codex#大模型#个人开发者#提示词#skil",
@@ -291,18 +280,13 @@
     {
       "id": "6769b535a092c18345befc68",
       "title": "Codex越用越慢？先清理这些指令",
-      "referencePreview": "assets/6769b535a092c18345befc68/reference/preview.mp4",
+      "referencePreview": "",
       "overlayTitle": "Codex越用越慢？先清理这些指令",
       "scriptText": "Codex越用越慢，可能不是模型的问题，而是你给它塞了太多指令。AGENTS.md越写越长，Skill越装越多，旧规则没有清理，新规则又不断叠加，Codex每次干活都要同时处理一大堆要求。轻则回复变慢，重则规则冲突、Skill乱触发，甚至任务还没完成就停了。这时候不要继续加提示词，先把这段话发给Codex，Codex也需要定期清理，不是规则越多越强，而是每条规则都清楚、有效、不打架。我把完整的指令检查提示词和清理清单整理好了，需要的评论区打，清理，直接复制就能用。",
       "publishCopy": "Codex越来越慢，可能是指令太多了#Codex #Codex实操 #CodexSkills #指令清理 #AI工作流",
       "claimText": "",
       "claimUrl": "",
       "pip": [
-        {
-          "name": "Codex越用越慢先清理这些指令-画中画-01.mp4",
-          "url": "assets/6769b535a092c18345befc68/pip/Codex越用越慢先清理这些指令-画中画-01.mp4",
-          "mediaType": "video"
-        },
         {
           "name": "Codex越用越慢先清理这些指令-画中画-02.png",
           "url": "assets/6769b535a092c18345befc68/pip/Codex越用越慢先清理这些指令-画中画-02.png",
@@ -338,16 +322,6 @@
           "mediaType": "video"
         },
         {
-          "name": "Codex最值得装的10个Skill-画中画-03.mp4",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-03.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "Codex最值得装的10个Skill-画中画-04.mp4",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-04.mp4",
-          "mediaType": "video"
-        },
-        {
           "name": "Codex最值得装的10个Skill-画中画-05.mp4",
           "url": "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-05.mp4",
           "mediaType": "video"
@@ -355,16 +329,6 @@
         {
           "name": "Codex最值得装的10个Skill-画中画-06.mp4",
           "url": "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-06.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "Codex最值得装的10个Skill-画中画-07.mp4",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-07.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "Codex最值得装的10个Skill-画中画-08.mp4",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-08.mp4",
           "mediaType": "video"
         },
         {
@@ -413,7 +377,7 @@
     {
       "id": "20f1e2587662b48f62ba2eb7",
       "title": "别再让员工各玩各的Codex",
-      "referencePreview": "assets/20f1e2587662b48f62ba2eb7/reference/preview.mp4",
+      "referencePreview": "",
       "overlayTitle": "别再让员工各玩各的Codex",
       "scriptText": "别再让员工各玩各的Codex了。有人用它写文案，有人用它改代码，还有人直接把客户资料丢进去。看起来全公司都在用AI，其实每个人的用法都不一样。最近GitHub上有一份Codex壹零壹，把安装、设置、安全和任务写法都整理好了。老板可以让负责人照着它，做一份公司自己的Codex使用说明：哪些工作可以交给Codex，哪些资料不能上传，哪些结果必须人工检查。以后新员工照着说明就能用，团队也不用反复踩同样的坑。我把Codex壹零壹入口和公司版提示词整理好了，需要的评论区打，规范，直接复制就能用。",
       "publishCopy": "公司应该有一份Codex使用说明书#Codex #Codex教程 #企业AI #AI工作流 #老板学AI",
@@ -421,44 +385,23 @@
       "claimUrl": "",
       "pip": [
         {
-          "name": "别再让员工各玩各的Codex-画中画-01.mp4",
-          "url": "assets/20f1e2587662b48f62ba2eb7/pip/别再让员工各玩各的Codex-画中画-01.mp4",
-          "mediaType": "video"
-        },
-        {
           "name": "别再让员工各玩各的Codex-画中画-02.mp4",
           "url": "assets/20f1e2587662b48f62ba2eb7/pip/别再让员工各玩各的Codex-画中画-02.mp4",
           "mediaType": "video"
-        },
-        {
-          "name": "别再让员工各玩各的Codex-画中画-03.mp4",
-          "url": "assets/20f1e2587662b48f62ba2eb7/pip/别再让员工各玩各的Codex-画中画-03.mp4",
-          "mediaType": "video"
         }
       ],
-      "claimFiles": [
-        {
-          "name": "别再让员工各玩各的Codex-领取资料-01.pdf",
-          "url": "assets/20f1e2587662b48f62ba2eb7/claim/别再让员工各玩各的Codex-领取资料-01.pdf",
-          "mediaType": "document"
-        }
-      ]
+      "claimFiles": []
     },
     {
       "id": "a889c23e642b2dfd488ec8b6",
       "title": "Codex新功能！电脑历史一键参考",
-      "referencePreview": "assets/a889c23e642b2dfd488ec8b6/reference/preview.mp4",
+      "referencePreview": "",
       "overlayTitle": "Codex新功能！电脑历史一键参考",
       "scriptText": "Codex 又更新了，这次的更新多了一个新的功能，叫 Computer History。当你把这个功能开启之后，Codex 可以参考你电脑上的工作历史，把你最近在APP和网页里的操作，甚至是你喜欢用的什么快捷键都给记下来了。所以它有一个非常实用的新玩法，就是你每天在下班之前定期的总结你的电脑操作，并将反复出现的工作流沉淀成 Skill。这里的提示词我整理好了，评论区打111自取。它比 Computer Use 更恐怖的地方就是，它能记住你手上的操作、鼠标点击习惯、快捷键等等。但是这个是需要手动去开启的，并且可以查看、暂停和删除历史。所以我觉得，如果你经常用 Codex 去做项目，去辅助你的工作，那这个功能将大大提高你的工作效率。但如果你电脑里有很多隐私内容，那我觉得还是先别急着开。关注我，把每天重复的工作变成可复用的流程",
       "publishCopy": "Codex 新功能 一招让你提高工作效率 #抖音创作者大会 #computerhistory #codex #AI编程 #AI工作流",
       "claimText": "领取提示词：\n请定期总结我电脑上的近期操作记录。\n\n任务目标：\n基于 Computer History 中可用的本地活动记录，总结我在指定时间窗口内的主要电脑操作、工作上下文、任务进展和可执行后续事项。\n\n时间范围：\n总结本次运行前的最近 {时间范围}，例如最近 1 小时 / 最近 6 小时 / 今天 09:00 到现在。\n\n数据使用要求：\n1. 先检查 Computer History 当前状态和可用记录时间范围。\n2. 只使用 Computer History 中实际记录到的证据，不要编造未观察到的活动。\n3. 如果记录缺失、暂停、停止或时间范围不完整，请在报告开头明确说明。\n4. 对网页、应用、文件、窗口标题、选中文本等信息进行归纳，而不是逐条流水账复述。\n5. 不要泄露敏感内容的完整原文，例如密码、验证码、私密聊天、银行卡、身份证、API Key、医疗或法律隐私信息。如发现疑似敏感内容，只做脱敏概括。\n\n输出格式：\n请使用以下结构输出：\n\n# 电脑操作总结\n\n## 1. 总体概览\n用 3-5 句话总结这段时间主要在做什么、工作重心是什么、是否存在明显的上下文切换。\n\n## 2. 时间线\n按时间顺序列出关键活动，每条包含：\n- 时间段\n- 应用或网站\n- 操作概括\n- 可能对应的任务或目的\n\n## 3. 主要任务\n归纳出 1-5 个主要任务。每个任务包含：\n- 任务名称\n- 相关应用 / 网站 / 文件\n- 已完成的动作\n- 当前进展判断\n- 仍未完成或可能需要继续的事项\n\n## 4. 注意事项\n列出可能值得我注意的内容，例如：\n- 长时间停留但没有明显产出的任务\n- 频繁切换导致的上下文碎片\n- 可能遗漏的后续动作\n- 需要回到某个网页、文档或代码位置继续处理的事项\n\n## 5. 下一步建议\n给出具体、可执行的下一步建议，不要泛泛而谈。每条建议尽量包含动作对象和原因。\n\n质量要求：\n- 语言简洁、客观、像工作日志，不要写成情绪化评价。\n- 区分“观察到的事实”和“基于事实的推断”。\n- 如果无法判断目的，请明确写“无法从记录判断”。\n- 不要输出无关的系统事件、后台噪音或重复窗口切换，除非它们影响工作判断",
       "claimUrl": "",
       "pip": [
-        {
-          "name": "Codex新功能!电脑历史一键参考-画中画-01.mp4",
-          "url": "assets/a889c23e642b2dfd488ec8b6/pip/Codex新功能!电脑历史一键参考-画中画-01.mp4",
-          "mediaType": "video"
-        },
         {
           "name": "Codex新功能!电脑历史一键参考-画中画-02.mp4",
           "url": "assets/a889c23e642b2dfd488ec8b6/pip/Codex新功能!电脑历史一键参考-画中画-02.mp4",
@@ -511,18 +454,13 @@
     {
       "id": "5ffb00c44dc5b8b974724b18",
       "title": "治好AI瞎写代码 skil直接给ai立规矩",
-      "referencePreview": "assets/5ffb00c44dc5b8b974724b18/reference/preview.mp4",
+      "referencePreview": "",
       "overlayTitle": "治好AI瞎写代码 skil直接给ai立规矩",
       "scriptText": "为了治 AI 瞎写代码胡说八道的臭毛病，这位大神程序员亲自下场了，直接做了这个 Skill 专门给 AI 编程立规矩。这个 Skill 已经拿下了 17.3 万颗星。它介绍写的就很硬，真正工程师必备的技能。作者 Matt Pocock，前 Vercel 工程师，也是 Total TypeScript 创作者。别看这些 Skill 文件都不长，里面全是浓缩版的 AI 编程原则。它解决的正是大家用 AI 写代码时最头疼的几个问题：听不懂需求、回答特别啰嗦、疯狂浪费 Token，最后还给出一堆臃肿没法维护的代码。以前的 AI 是想到哪儿写到哪儿，现在它得听这套技术规范的 Skill，告诉它什么能做、什么不能做、代码要怎么组织、结果要怎么验收。说白了就是把 AI 从\"凭感觉写代码”强行训练成按工程标准去交付。所以，这个项目真正厉害的地方不是代码有多长，而是它直接给 AI 套上一套工程师的缰绳。AI 可能越来越聪明，但它照样能把项目写成一团乱，所以，现在就要给它立好规矩，这套Skill真正有价值的地方，是把AI编程从“凭感觉生成”，变成“按规则交付”。我把里面最适合普通人使用的规则，整理成了一份清单。评论区打：规矩，我发你。后面继续拆解这些规则怎么装进Codex、怎么实际使用。",
       "publishCopy": "ai瞎写代码终于有救了，这个项目直接给它立规矩 #ai #skill #vibecoding",
       "claimText": "",
       "claimUrl": "",
       "pip": [
-        {
-          "name": "治好AI瞎写代码-skil直接给ai立规矩-画中画-01.mp4",
-          "url": "assets/5ffb00c44dc5b8b974724b18/pip/治好AI瞎写代码-skil直接给ai立规矩-画中画-01.mp4",
-          "mediaType": "video"
-        },
         {
           "name": "治好AI瞎写代码-skil直接给ai立规矩-画中画-02.mp4",
           "url": "assets/5ffb00c44dc5b8b974724b18/pip/治好AI瞎写代码-skil直接给ai立规矩-画中画-02.mp4",
@@ -586,11 +524,6 @@
       "claimUrl": "",
       "pip": [
         {
-          "name": "codex总在压缩上下文这样处理-画中画-01.png",
-          "url": "assets/86fddf68b4e599f523dd94a8/pip/codex总在压缩上下文这样处理-画中画-01.png",
-          "mediaType": "image"
-        },
-        {
           "name": "codex总在压缩上下文这样处理-画中画-02.png",
           "url": "assets/86fddf68b4e599f523dd94a8/pip/codex总在压缩上下文这样处理-画中画-02.png",
           "mediaType": "image"
@@ -606,7 +539,7 @@
     {
       "id": "31daa247f182e81a9066cc60",
       "title": "高手用codex，3个流程拉开差距",
-      "referencePreview": "assets/31daa247f182e81a9066cc60/reference/preview.mp4",
+      "referencePreview": "",
       "overlayTitle": "高手用codex，3个流程拉开差距",
       "scriptText": "Codex用久了以后，一定要跑这个任务。你把这句话发给它：“请你复盘我最近反复让你做的任务，找出最适合沉淀成Skill的3个流程。每个流程写清楚：适用场景、输入材料、执行步骤、输出结果。”这个任务很重要。因为普通人用Codex，每次都是想到什么问什么。但高手用Codex，会把重复任务沉淀成Skill。我自己是做金融行业的，最近高频用Codex做行业资料、内容和流程整理，越用越发现：很多任务不是不会做，而是每次都在重复说一遍。比如行业资料整理Skill、市场信息复盘Skill、客户沟通整理Skill。一旦沉淀下来，以后你就不用每次重新解释。你只要告诉Codex：按这个Skill跑。它就知道该怎么做，也知道最后要给你什么结果。普通人用AI，是临时提问。高手用AI，是沉淀流程。我把这个Skill提炼提示词整理好了。想要的，评论区打，Skill，我发给你，记住，真正拉开差距的，不是你问了AI多少次，而是你沉淀了多少套能反复执行的流程。",
       "publishCopy": "别每次都重新教 Codex，把重复任务沉淀成 Skill#Codex #Skill #AI工具 #AI提效 #AI工作流 #AI自动化 #普通人学AI #数字员工 #效率工具",
@@ -743,5 +676,26 @@
       ]
     }
   ],
-  "skipped": []
+  "skipped": [
+    "assets/85614f5e077fbbb3e66335b5/pip/Skill越装越多,Codex反而越乱-画中画-02.mp4（GitHub 未接受）",
+    "assets/8090b5f36ec2421ec56a3fcd/claim/Codex5.6多Agent配置教程,Mac和Windows都能用#Codex-#Codex实操-#Codex教（GitHub 未接受）",
+    "assets/4af16ee98ab89e98bee1007d/reference/preview.mp4（GitHub 未接受）",
+    "assets/2fbbe7a2b0ea1e834cb6ddb0/reference/preview.mp4（GitHub 未接受）",
+    "assets/6769b535a092c18345befc68/reference/preview.mp4（GitHub 未接受）",
+    "assets/6769b535a092c18345befc68/pip/Codex越用越慢先清理这些指令-画中画-01.mp4（GitHub 未接受）",
+    "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-03.mp4（GitHub 未接受）",
+    "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-04.mp4（GitHub 未接受）",
+    "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-07.mp4（GitHub 未接受）",
+    "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-08.mp4（GitHub 未接受）",
+    "assets/20f1e2587662b48f62ba2eb7/reference/preview.mp4（GitHub 未接受）",
+    "assets/20f1e2587662b48f62ba2eb7/claim/别再让员工各玩各的Codex-领取资料-01.pdf（GitHub 未接受）",
+    "assets/20f1e2587662b48f62ba2eb7/pip/别再让员工各玩各的Codex-画中画-01.mp4（GitHub 未接受）",
+    "assets/20f1e2587662b48f62ba2eb7/pip/别再让员工各玩各的Codex-画中画-03.mp4（GitHub 未接受）",
+    "assets/a889c23e642b2dfd488ec8b6/reference/preview.mp4（GitHub 未接受）",
+    "assets/a889c23e642b2dfd488ec8b6/pip/Codex新功能!电脑历史一键参考-画中画-01.mp4（GitHub 未接受）",
+    "assets/5ffb00c44dc5b8b974724b18/reference/preview.mp4（GitHub 未接受）",
+    "assets/5ffb00c44dc5b8b974724b18/pip/治好AI瞎写代码-skil直接给ai立规矩-画中画-01.mp4（GitHub 未接受）",
+    "assets/86fddf68b4e599f523dd94a8/pip/codex总在压缩上下文这样处理-画中画-01.png（GitHub 未接受）",
+    "assets/31daa247f182e81a9066cc60/reference/preview.mp4（GitHub 未接受）"
+  ]
 }
