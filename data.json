@@ -62,25 +62,13 @@
       "publishCopy": "怎么样能让codex能力翻倍#Codex#GPT#ai#ai教程#skill",
       "claimText": "",
       "claimUrl": "",
-      "pip": [
-        {
-          "name": "怎么样能让codex能力翻倍-画中画-01.mp4",
-          "url": "assets/6551b8588a9121f616bd6c34/pip/怎么样能让codex能力翻倍-画中画-01.mp4",
-          "mediaType": "video"
-        }
-      ],
-      "claimFiles": [
-        {
-          "name": "怎么样能让codex能力翻倍-领取资料-01.pdf",
-          "url": "assets/6551b8588a9121f616bd6c34/claim/怎么样能让codex能力翻倍-领取资料-01.pdf",
-          "mediaType": "document"
-        }
-      ]
+      "pip": [],
+      "claimFiles": []
     },
     {
       "id": "d010734edf57e993ee4c63e4",
       "title": "标题：codex直接接管手机全自动操作",
-      "referencePreview": "assets/d010734edf57e993ee4c63e4/reference/preview.mp4",
+      "referencePreview": "",
       "overlayTitle": "标题：codex直接接管手机全自动操作",
       "scriptText": "标题：codex直接接管手机全自动操作\n话题：#Codex #AI智能体 #开源项目 #手机自动化\n口播文案：\nCodex 居然还能帮你操作手机？在GitHub上这个项目叫 Phone Harness，视频里展示的，就是把真实手机接入 AI 智能体。看屏幕、点按钮、输入文字，都能交给它。什么意思？以前你得自己找入口、一步步点，现在配置好以后，你说出任务，AI 就能根据屏幕内容，找到按钮继续操作。相当于给 AI 装上了一双操作手机的手。想了解这个项目，评论区打“手机”，下一条拆解它怎么用。",
       "publishCopy": "话题：#Codex #AI智能体 #开源项目 #手机自动化",
@@ -141,23 +129,12 @@
       "claimUrl": "",
       "pip": [
         {
-          "name": "Skill越装越多,Codex反而越乱-画中画-01.mp4",
-          "url": "assets/85614f5e077fbbb3e66335b5/pip/Skill越装越多,Codex反而越乱-画中画-01.mp4",
-          "mediaType": "video"
-        },
-        {
           "name": "Skill越装越多,Codex反而越乱-画中画-02.mp4",
           "url": "assets/85614f5e077fbbb3e66335b5/pip/Skill越装越多,Codex反而越乱-画中画-02.mp4",
           "mediaType": "video"
         }
       ],
-      "claimFiles": [
-        {
-          "name": "Skill越装越多,Codex反而越乱-领取资料-01.pdf",
-          "url": "assets/85614f5e077fbbb3e66335b5/claim/Skill越装越多,Codex反而越乱-领取资料-01.pdf",
-          "mediaType": "document"
-        }
-      ]
+      "claimFiles": []
     },
     {
       "id": "8090b5f36ec2421ec56a3fcd",
@@ -180,7 +157,7 @@
     {
       "id": "4e30bbd600dc05f724ee119c",
       "title": "两步搞定安装Codex一键安装汉化包",
-      "referencePreview": "assets/4e30bbd600dc05f724ee119c/reference/preview.mp4",
+      "referencePreview": "",
       "overlayTitle": "两步搞定安装Codex一键安装汉化包",
       "scriptText": "兄弟们!codex 安装教程不用再看了,我做了一个一键安装器,只需要点两下,一键安装,一键汉化,最重要的是不需要梯子,国内直连,有需要的朋友评论区留言",
       "publishCopy": "Codex安装教程，傻瓜式操作#codex安装#ai#ai工具",
@@ -215,7 +192,7 @@
     {
       "id": "4af16ee98ab89e98bee1007d",
       "title": "一键部署17个部门，242个AI员工 #干货分享 #AI #github #人工智能 #AI工具",
-      "referencePreview": "assets/4af16ee98ab89e98bee1007d/reference/preview.mp4",
+      "referencePreview": "",
       "overlayTitle": "",
       "scriptText": "朋友们,又看到了一个超级变态的项目啊,就这个伙伴,他最近把所有的工作都做成了一个ai 员工,更夸张的是这个项目还免费开源,现在星标已经冲到了13.1万了,上一次看到这么夸张的热度还是那个小龙虾项目,你看它里面都有什么,前端开发,ui 设计,自媒体运营,销售,甚至人工智能工程师和高级开发人员,基本上你能想到的岗位他都给你配置好了,而且横跨了大概17个不同的部门,最关键的是里面集成了大量高度专业化的提示库,什么意思呢,你只要把对应的内容丢进自己的ai 工具里,就等于直接拥有一支ai 团队,这哪是普通员工啊,简直就是特种兵集合,我整理好了,关注我,评论区扣,项目,找我发给你吧",
       "publishCopy": "一键部署17个部门，242个AI员工 #干货分享 #AI #github #人工智能 #AI工具",
@@ -262,7 +239,7 @@
     {
       "id": "41a78c4de3054581a3d344b5",
       "title": "codex装2个插件 直接成神",
-      "referencePreview": "assets/41a78c4de3054581a3d344b5/reference/preview.mp4",
+      "referencePreview": "",
       "overlayTitle": "codex装2个插件 直接成神",
       "scriptText": "我们Codex 安装好了之后,第一件事你要做什么？一定一定一定要听清楚!你只要安装两个插件,直接成神。一个是 Computer Use，直接把电脑的操控权全权交给 Codex，一个是 Google 的浏览器控制。我跟你说一下为什么啊?如果你让 Codex 接管了浏览器？所有信息、所有知识都将与它共舞。我已经做成好了 Skill？有需要的朋友评论区留言。",
       "publishCopy": "codex 成神的两个插件 两个插件让你的codex效率翻倍#codex#ai#ai赋能#ai实操",
@@ -280,18 +257,13 @@
     {
       "id": "2409edeaa18bd7c23472bad7",
       "title": "GPT-6 Astra先做一次指令债审计",
-      "referencePreview": "assets/2409edeaa18bd7c23472bad7/reference/preview.mp4",
+      "referencePreview": "",
       "overlayTitle": "GPT-6 Astra先做一次指令债审计",
       "scriptText": "GPT6 Astra用户，请在问题越来越难排查之前，先做这件事。你的Codex是不是越来越爱停，越来越爱问，越来越容易跑偏？一个很小的任务，也会触发一堆Skill，真正该做的事情反而没有完成。如果你现在不检查，以后每增加一条规则，问题都会变得更难定位。Open  AI官方也提醒，GPT-6 Astra对Skill和AGENTS.md里的指令更加敏感，含糊或者冲突的规则，可能会让它改变方向或者提前停下来。现在打开Codex，把这段提示词发给它：”发送以后，Codex会先告诉你哪些规则正在影响它、哪些Skill容易误触发、哪些权限和完成条件写得不清楚，然后再给出最小修改方案。先把问题查明白，再决定保留、缩短、拆分还是删除。我把这段完整中文版和指令债审计清单整理好了，需要的评论区打，审计，直接复制就能用。",
       "publishCopy": "GPT-6 Astra越来越容易跑偏？先检查这些旧指令#Codex #GPT6Astra #Codex实操 #指令审计 #AI工作流",
       "claimText": "“请对我的Codex代理设置进行一次指令债审计。先审计，不修改任何文件或设置。第一，盘点当前工作区能够访问的全局与项目级AGENTS.md、Skill名称和描述、必要的SKILL.md、代理定义、钩子、权限设置以及完成规则。区分哪些内容始终加载、哪些只用于Skill识别、哪些只在需要时读取，并标明作用范围、优先级、重复项和无法检查的内容。第二，检查Skill描述是否触发范围过宽或者互相重叠；SKILL.md是否存在不必要的强制阅读、重复规则和过期引用；AGENTS.md是否混入旧模型的变通规则、针对小任务的强制全项目检查，以及与当前修改无关的测试要求；权限设置是否审批过多或者授权边界模糊；完成规则是否缺少验证、容易提前结束或者存在没有退出条件的循环。保留有效的项目知识、构建命令、安全限制和必要审批，不要自动扩大权限。第三，只做纸面压力测试，不执行真实操作。分别模拟错别字修改、数据库迁移、需要视觉检查的UI改动、本地测试失败和需要审批的部署，记录每个场景会激活哪些指令、读取哪些文件、执行哪些动作、在哪里需要审批以及什么时候停止，并指出哪些规则会造成无用工作、冲突或者结果不完整。第四，针对每个问题提供文件路径和章节、简短的原文证据、可能造成的影响、处理建议以及可以直接替换的文本。按照影响程度和证据强度排序，并区分已经确认的问题和仍需验证的假设。第五，输出影响最大的问题、审计覆盖范围、访问缺口、场景演练结果、按文件整理的修改建议、最小清理批次，以及判断清理是否有效的检查方法。不要泄露敏感信息，不要安装工具，不要执行外部操作。报告完成后停止，等我确认以后再修改。”",
       "claimUrl": "",
       "pip": [
-        {
-          "name": "GPT-6-Astra先做一次指令债审计-画中画-01.mp4",
-          "url": "assets/2409edeaa18bd7c23472bad7/pip/GPT-6-Astra先做一次指令债审计-画中画-01.mp4",
-          "mediaType": "video"
-        },
         {
           "name": "GPT-6-Astra先做一次指令债审计-画中画-02.mp4",
           "url": "assets/2409edeaa18bd7c23472bad7/pip/GPT-6-Astra先做一次指令债审计-画中画-02.mp4",
@@ -309,18 +281,7 @@
       "publishCopy": "Codex越来越慢，可能是指令太多了#Codex #Codex实操 #CodexSkills #指令清理 #AI工作流",
       "claimText": "",
       "claimUrl": "",
-      "pip": [
-        {
-          "name": "Codex越用越慢先清理这些指令-画中画-01.mp4",
-          "url": "assets/6769b535a092c18345befc68/pip/Codex越用越慢先清理这些指令-画中画-01.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "Codex越用越慢先清理这些指令-画中画-02.png",
-          "url": "assets/6769b535a092c18345befc68/pip/Codex越用越慢先清理这些指令-画中画-02.png",
-          "mediaType": "image"
-        }
-      ],
+      "pip": [],
       "claimFiles": [
         {
           "name": "Codex越用越慢先清理这些指令-领取资料-01.pdf",
@@ -343,11 +304,6 @@
           "name": "Codex最值得装的10个Skill-画中画-01.png",
           "url": "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-01.png",
           "mediaType": "image"
-        },
-        {
-          "name": "Codex最值得装的10个Skill-画中画-02.mp4",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-02.mp4",
-          "mediaType": "video"
         },
         {
           "name": "Codex最值得装的10个Skill-画中画-03.mp4",
@@ -390,13 +346,7 @@
           "mediaType": "video"
         }
       ],
-      "claimFiles": [
-        {
-          "name": "Codex最值得装的10个Skill-领取资料-01.pdf",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/claim/Codex最值得装的10个Skill-领取资料-01.pdf",
-          "mediaType": "document"
-        }
-      ]
+      "claimFiles": []
     },
     {
       "id": "ed5dd1454dd33af91a28cd7b",
@@ -433,11 +383,6 @@
       "claimUrl": "",
       "pip": [
         {
-          "name": "别再让员工各玩各的Codex-画中画-01.mp4",
-          "url": "assets/20f1e2587662b48f62ba2eb7/pip/别再让员工各玩各的Codex-画中画-01.mp4",
-          "mediaType": "video"
-        },
-        {
           "name": "别再让员工各玩各的Codex-画中画-02.mp4",
           "url": "assets/20f1e2587662b48f62ba2eb7/pip/别再让员工各玩各的Codex-画中画-02.mp4",
           "mediaType": "video"
@@ -467,16 +412,6 @@
       "claimUrl": "",
       "pip": [
         {
-          "name": "Codex新功能!电脑历史一键参考-画中画-01.mp4",
-          "url": "assets/a889c23e642b2dfd488ec8b6/pip/Codex新功能!电脑历史一键参考-画中画-01.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "Codex新功能!电脑历史一键参考-画中画-02.mp4",
-          "url": "assets/a889c23e642b2dfd488ec8b6/pip/Codex新功能!电脑历史一键参考-画中画-02.mp4",
-          "mediaType": "video"
-        },
-        {
           "name": "Codex新功能!电脑历史一键参考-画中画-03.mp4",
           "url": "assets/a889c23e642b2dfd488ec8b6/pip/Codex新功能!电脑历史一键参考-画中画-03.mp4",
           "mediaType": "video"
@@ -505,7 +440,7 @@
     {
       "id": "48c86716d2a87853de4aa427",
       "title": "codex开放权重后，AI工作流巨变",
-      "referencePreview": "assets/48c86716d2a87853de4aa427/reference/preview.mp4",
+      "referencePreview": "",
       "overlayTitle": "codex开放权重后，AI工作流巨变",
       "scriptText": "黄仁勋的第一篇帖子，真正值得普通人关注的不是开放权重这四个字，而是它背后的一个变化：AI正在从聊天工具，变成你自己的工作系统。以前我们用AI，大多是打开网页，复制一段资料，问一句问题，然后拿结果。但开放权重模型出现以后，模型可以更容易接进本地电脑、公司文档、知识库和自动化流程里。比如你的选题库、客户资料、历史文案、项目文件，都可以慢慢变成一个专属AI工作流。它不只是回答你，而是越来越懂你的资料、你的流程、你的行业。对普通人来说，这才是重点。未来拉开差距的，不是谁知道更多模型名字，而是谁先把AI接进自己的工作里。我整理了一份个人AI工作流搭建清单。评论区打：工作流，我发你。关注我，后面继续用真实案例拆解个人AI工作流怎么搭。",
       "publishCopy": "真正会用AI的人，已经开始搭自己的工作流了#AI工具 #AI工作流 #人工智能 #效率提升 #个人成长",
@@ -531,23 +466,8 @@
       "claimUrl": "",
       "pip": [
         {
-          "name": "治好AI瞎写代码-skil直接给ai立规矩-画中画-01.mp4",
-          "url": "assets/5ffb00c44dc5b8b974724b18/pip/治好AI瞎写代码-skil直接给ai立规矩-画中画-01.mp4",
-          "mediaType": "video"
-        },
-        {
           "name": "治好AI瞎写代码-skil直接给ai立规矩-画中画-02.mp4",
           "url": "assets/5ffb00c44dc5b8b974724b18/pip/治好AI瞎写代码-skil直接给ai立规矩-画中画-02.mp4",
-          "mediaType": "video"
-        },
-        {
-          "name": "治好AI瞎写代码-skil直接给ai立规矩-画中画-03.png",
-          "url": "assets/5ffb00c44dc5b8b974724b18/pip/治好AI瞎写代码-skil直接给ai立规矩-画中画-03.png",
-          "mediaType": "image"
-        },
-        {
-          "name": "治好AI瞎写代码-skil直接给ai立规矩-画中画-04.mp4",
-          "url": "assets/5ffb00c44dc5b8b974724b18/pip/治好AI瞎写代码-skil直接给ai立规矩-画中画-04.mp4",
           "mediaType": "video"
         },
         {
@@ -654,11 +574,6 @@
           "mediaType": "image"
         },
         {
-          "name": "codex总在压缩上下文这样处理-画中画-02.png",
-          "url": "assets/ff4a704de35b44f8191aea20/pip/codex总在压缩上下文这样处理-画中画-02.png",
-          "mediaType": "image"
-        },
-        {
           "name": "codex总在压缩上下文这样处理-画中画-03.png",
           "url": "assets/ff4a704de35b44f8191aea20/pip/codex总在压缩上下文这样处理-画中画-03.png",
           "mediaType": "image"
@@ -681,7 +596,7 @@
     {
       "id": "2f6f4649cbf63533e194f51d",
       "title": "44万Star爆火 AI视频工厂来了",
-      "referencePreview": "assets/2f6f4649cbf63533e194f51d/reference/preview.mp4",
+      "referencePreview": "",
       "overlayTitle": "44万Star爆火 AI视频工厂来了",
       "scriptText": "GitHub这两天最火的项目，居然是一个AI视频剪辑系统。它叫OpenMontage，一个开源AI视频生产工具，短短几天就拿下了44万个Star，直接成为AI圈最火的项目之一。它的厉害之处在于，你不用一步步手动剪视频。你只需要对Claude Code、Codex这类AI编程工具说一句：“我要做一条什么主题、什么风格、什么时长的视频。”接下来，OpenMontage就会自动进入制作流程。它会先帮你研究选题、写脚本、拆分镜头、找素材、生成画面、配音、加字幕、配音乐，最后把所有内容剪辑合成，直接输出一条完整视频。例如，一条包含剧情、动画、背景音乐，甚至是字幕的皮克斯风格动画短片，从脚本到合成，全部都由OpenMontage完成。除了动画短片，像脑机接口、产品广告、科幻电影预告片、数据可视化视频等等，这些它都能做。它背后不是单一的视频生成模型，而是一整套AI视频生产系统。OpenMontage内置了12条视频流水线、52个工具模块，还有500多个Agent Skills。你可以把它理解成一个AI视频工厂。即使不接API，OpenMontage也能用一些免费能力，比如本地配音工具、各种公开素材库，以及基础的视频剪辑和字幕工具，做出简单的视频内容。非常适合短视频创作者、内容团队，以及想要批量化生产视频的朋友。以后做视频就变得更加简单高效了。关注我，评论区扣，剪辑，找我发给你吧。",
       "publishCopy": "连夜冲上热榜第一，AI全自动视频生产开源智能体！#OpenMontage #AI视频 #AI剪辑 #codex #Agent",
@@ -693,7 +608,7 @@
     {
       "id": "29b2c2cf91edc151ae14ddd3",
       "title": "3个Skill让Codex效率翻倍",
-      "referencePreview": "assets/29b2c2cf91edc151ae14ddd3/reference/preview.mp4",
+      "referencePreview": "",
       "overlayTitle": "3个Skill让Codex效率翻倍",
       "scriptText": "小白使用 Codex 为什么总是感觉 Codex 很笨？因为 Codex 刚开始没有技能，而且他也不知道什么时候该用什么技能，他虽然很聪明。但是，没有这三个 Skill 互相配合，是哪三个 Skill 呢？第一个 Skill，是技能的调度器，每次操作之前都会去检查有没有可用的技能。然后，进行规划前必须先完成头脑风暴，就大家做任务的时候，他必须先完成头脑风暴才会进行下一步。第二个 Skill，是技能搜索和安装助手，用户提出需求，然后 Codex 会自动提出这个技能，并检索需要的技能，挑选合适的技能再去安装，达到自行迭代。第三个 Skill，就是在开发创意和复杂任务时会提问，然后先出方案，才会去干。安装也很简单，直接复制下来丢进你的 Codex，让它下载并且告诉你技能的用途。关于 Codex 的所有使用技巧我也准备好了，需要的评论区 666 自取。",
       "publishCopy": "新手小白codex必备的三个skill #codex #ai #codedex使用教程 #电脑小白知识普及 #aigc",
@@ -716,11 +631,6 @@
           "name": "让codex直接操作-Photoshop!太牛了-画中画-01.mp4",
           "url": "assets/fced016dbbb011f342e28898/pip/让codex直接操作-Photoshop!太牛了-画中画-01.mp4",
           "mediaType": "video"
-        },
-        {
-          "name": "让codex直接操作-Photoshop!太牛了-画中画-02.mp4",
-          "url": "assets/fced016dbbb011f342e28898/pip/让codex直接操作-Photoshop!太牛了-画中画-02.mp4",
-          "mediaType": "video"
         }
       ],
       "claimFiles": []
@@ -739,11 +649,6 @@
           "name": "让codex直接操作-Photoshop!太牛了-画中画-01.mp4",
           "url": "assets/e8122856e326cc6c8367ad45/pip/让codex直接操作-Photoshop!太牛了-画中画-01.mp4",
           "mediaType": "video"
-        },
-        {
-          "name": "让codex直接操作-Photoshop!太牛了-画中画-02.mp4",
-          "url": "assets/e8122856e326cc6c8367ad45/pip/让codex直接操作-Photoshop!太牛了-画中画-02.mp4",
-          "mediaType": "video"
         }
       ],
       "claimFiles": [
@@ -755,5 +660,32 @@
       ]
     }
   ],
-  "skipped": []
+  "skipped": [
+    "assets/6551b8588a9121f616bd6c34/claim/怎么样能让codex能力翻倍-领取资料-01.pdf（GitHub 未接受）",
+    "assets/6551b8588a9121f616bd6c34/pip/怎么样能让codex能力翻倍-画中画-01.mp4（GitHub 未接受）",
+    "assets/d010734edf57e993ee4c63e4/reference/preview.mp4（GitHub 未接受）",
+    "assets/85614f5e077fbbb3e66335b5/claim/Skill越装越多,Codex反而越乱-领取资料-01.pdf（GitHub 未接受）",
+    "assets/85614f5e077fbbb3e66335b5/pip/Skill越装越多,Codex反而越乱-画中画-01.mp4（GitHub 未接受）",
+    "assets/4e30bbd600dc05f724ee119c/reference/preview.mp4（GitHub 未接受）",
+    "assets/4af16ee98ab89e98bee1007d/reference/preview.mp4（GitHub 未接受）",
+    "assets/41a78c4de3054581a3d344b5/reference/preview.mp4（GitHub 未接受）",
+    "assets/2409edeaa18bd7c23472bad7/reference/preview.mp4（GitHub 未接受）",
+    "assets/2409edeaa18bd7c23472bad7/pip/GPT-6-Astra先做一次指令债审计-画中画-01.mp4（GitHub 未接受）",
+    "assets/6769b535a092c18345befc68/pip/Codex越用越慢先清理这些指令-画中画-01.mp4（GitHub 未接受）",
+    "assets/6769b535a092c18345befc68/pip/Codex越用越慢先清理这些指令-画中画-02.png（GitHub 未接受）",
+    "assets/b586fd5478cb5bdc85bd9d49/claim/Codex最值得装的10个Skill-领取资料-01.pdf（GitHub 未接受）",
+    "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-02.mp4（GitHub 未接受）",
+    "assets/20f1e2587662b48f62ba2eb7/pip/别再让员工各玩各的Codex-画中画-01.mp4（GitHub 未接受）",
+    "assets/a889c23e642b2dfd488ec8b6/pip/Codex新功能!电脑历史一键参考-画中画-01.mp4（GitHub 未接受）",
+    "assets/a889c23e642b2dfd488ec8b6/pip/Codex新功能!电脑历史一键参考-画中画-02.mp4（GitHub 未接受）",
+    "assets/48c86716d2a87853de4aa427/reference/preview.mp4（GitHub 未接受）",
+    "assets/5ffb00c44dc5b8b974724b18/pip/治好AI瞎写代码-skil直接给ai立规矩-画中画-01.mp4（GitHub 未接受）",
+    "assets/5ffb00c44dc5b8b974724b18/pip/治好AI瞎写代码-skil直接给ai立规矩-画中画-03.png（GitHub 未接受）",
+    "assets/5ffb00c44dc5b8b974724b18/pip/治好AI瞎写代码-skil直接给ai立规矩-画中画-04.mp4（GitHub 未接受）",
+    "assets/ff4a704de35b44f8191aea20/pip/codex总在压缩上下文这样处理-画中画-02.png（GitHub 未接受）",
+    "assets/2f6f4649cbf63533e194f51d/reference/preview.mp4（GitHub 未接受）",
+    "assets/29b2c2cf91edc151ae14ddd3/reference/preview.mp4（GitHub 未接受）",
+    "assets/fced016dbbb011f342e28898/pip/让codex直接操作-Photoshop!太牛了-画中画-02.mp4（GitHub 未接受）",
+    "assets/e8122856e326cc6c8367ad45/pip/让codex直接操作-Photoshop!太牛了-画中画-02.mp4（GitHub 未接受）"
+  ]
 }
