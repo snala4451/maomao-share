@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "id": "482974908344fbdcfa89e7fc",
+      "title": "避免codex过度消耗",
+      "referencePreview": "assets/482974908344fbdcfa89e7fc/reference/preview.mp4",
+      "overlayTitle": "避免codex过度消耗",
+      "scriptText": "我最近才发现，Codex用得越久，越要提前给它加一条全局规则。不然一个几分钟的小需求，它真能给你跑十多个小时。我最近做了一个小红书分析工具，项目已经比较完整了。我只是想加一个启动包，一次性启动MCP和本地环境，省得每次手动输入几条命令。按理说，做个BAT或者EXE就够了。结果Codex跑了一整晚，又是检查代码，又是反复测试，几乎把整个项目重新过了一遍。第二天我发现不对，直接问它：“这只是一个独立的启动包，跟原来的程序没有关系，为什么要做这么多步骤？”它重新判断以后，也发现自己把问题搞复杂了。最后，同样一件事，11分钟就做完了。问题不一定出在模型，而是你没有提前告诉它：先判断任务复杂度。小改动只检查受影响的范围，不要默认扫描和测试整个项目；只有涉及核心逻辑、接口或者数据时，才扩大验证范围。后来，我把这条规则直接写进了A准的md。它不是让Codex不做测试，而是让测试范围和任务风险匹配。这样既能节省Token，也能节省时间。我已经把这套全局规则整理成了一份完整文档。需要的话，评论区留言，我发给你。",
+      "publishCopy": "你的codex不加上这么一个全局规则，很有可能有一半以上的token被白白烧了#AI开发#OPC#Codex",
+      "claimText": "",
+      "claimUrl": "",
+      "pip": [
+        {
+          "name": "避免codex过度消耗-画中画-01.mp4",
+          "url": "assets/482974908344fbdcfa89e7fc/pip/避免codex过度消耗-画中画-01.mp4",
+          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/482974908344fbdcfa89e7fc/pip/%E9%81%BF%E5%85%8Dcodex%E8%BF%87%E5%BA%A6%E6%B6%88%E8%80%97-%E7%94%BB%E4%B8%AD%E7%94%BB-01.mp4?download=1",
+          "mediaType": "video"
+        }
+      ],
+      "claimFiles": [
+        {
+          "name": "避免codex过度消耗-领取资料-01.docx",
+          "url": "assets/482974908344fbdcfa89e7fc/claim/避免codex过度消耗-领取资料-01.docx",
+          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/482974908344fbdcfa89e7fc/claim/%E9%81%BF%E5%85%8Dcodex%E8%BF%87%E5%BA%A6%E6%B6%88%E8%80%97-%E9%A2%86%E5%8F%96%E8%B5%84%E6%96%99-01.docx?download=1",
+          "mediaType": "document"
+        }
+      ]
+    },
+    {
       "id": "8a8c9d6ce9ab772dcd17a62d",
       "title": "codex一句想法变成提示词提示词优化神器",
       "referencePreview": "assets/8a8c9d6ce9ab772dcd17a62d/reference/preview.mp4",
