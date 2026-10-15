@@ -117,14 +117,7 @@
       "publishCopy": "怎么样能让codex能力翻倍#Codex#GPT#ai#ai教程#skill",
       "claimText": "",
       "claimUrl": "",
-      "pip": [
-        {
-          "name": "怎么样能让codex能力翻倍-画中画-01.mp4",
-          "url": "assets/6551b8588a9121f616bd6c34/pip/怎么样能让codex能力翻倍-画中画-01.mp4",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/6551b8588a9121f616bd6c34/pip/%E6%80%8E%E4%B9%88%E6%A0%B7%E8%83%BD%E8%AE%A9codex%E8%83%BD%E5%8A%9B%E7%BF%BB%E5%80%8D-%E7%94%BB%E4%B8%AD%E7%94%BB-01.mp4?download=1",
-          "mediaType": "video"
-        }
-      ],
+      "pip": [],
       "claimFiles": [
         {
           "name": "怎么样能让codex能力翻倍-领取资料-01.pdf",
@@ -441,12 +434,6 @@
           "name": "Codex最值得装的10个Skill-画中画-05.mp4",
           "url": "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-05.mp4",
           "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/b586fd5478cb5bdc85bd9d49/pip/Codex%E6%9C%80%E5%80%BC%E5%BE%97%E8%A3%85%E7%9A%8410%E4%B8%AASkill-%E7%94%BB%E4%B8%AD%E7%94%BB-05.mp4?download=1",
-          "mediaType": "video"
-        },
-        {
-          "name": "Codex最值得装的10个Skill-画中画-06.mp4",
-          "url": "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-06.mp4",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/b586fd5478cb5bdc85bd9d49/pip/Codex%E6%9C%80%E5%80%BC%E5%BE%97%E8%A3%85%E7%9A%8410%E4%B8%AASkill-%E7%94%BB%E4%B8%AD%E7%94%BB-06.mp4?download=1",
           "mediaType": "video"
         },
         {
@@ -872,5 +859,8 @@
       ]
     }
   ],
-  "skipped": []
+  "skipped": [
+    "assets/6551b8588a9121f616bd6c34/pip/怎么样能让codex能力翻倍-画中画-01.mp4（GitHub 未接受）",
+    "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-06.mp4（GitHub 未接受）"
+  ]
 }
