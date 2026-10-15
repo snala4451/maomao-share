@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c50d0c523a001a436a4521d3",
+      "title": "Codex+电商，短视频也能自动化",
+      "referencePreview": "assets/c50d0c523a001a436a4521d3/reference/preview.mp4",
+      "overlayTitle": "Codex+电商，短视频也能自动化",
+      "scriptText": "做电商的老板，别再只拿Codex写商品文案了，真正能帮你提效的，是让Codex把短视频生产流程搭起来。我最近看到一个开源项目，叫MoneyPrinterTurbo，可以让Codex先帮你读项目、搭环境，再部署到本地。以后只需要输入产品主题或者关键词，它就能生成脚本、匹配素材、完成配音和字幕，最后合成短视频，还能适配TikTok、Reels和Shorts。对于做跨境电商、店铺矩阵和批量测品的人来说，最耗时间的不是想不到内容，而是每个产品都要重复写脚本、找素材、配音和剪辑。这个工具可以先批量生成视频初版，你只需要检查产品信息、核心卖点、素材版权和最终效果。它不能保证你发一条就出单，但可以减少大量重复制作。如果你想看怎么用Codex把这套电商短视频工具部署起来，评论区扣个“电商”，我把教程整理给你。",
+      "publishCopy": "做电商别只用Codex写文案，把整条短视频生产线搭起来 #Codex #电商运营 #跨境电商 #AI短视频 #AI工具",
+      "claimText": "",
+      "claimUrl": "https://my.feishu.cn/wiki/ANuNwyYR2iwdPDkvP0bcKFUunqb?from=from_copylink",
+      "pip": [],
+      "claimFiles": []
+    },
+    {
       "id": "d180083bbdddb975de28b529",
       "title": "Codex开始会逆向工程了",
       "referencePreview": "assets/d180083bbdddb975de28b529/reference/preview.mp4",
@@ -117,7 +129,14 @@
       "publishCopy": "怎么样能让codex能力翻倍#Codex#GPT#ai#ai教程#skill",
       "claimText": "",
       "claimUrl": "",
-      "pip": [],
+      "pip": [
+        {
+          "name": "怎么样能让codex能力翻倍-画中画-01.mp4",
+          "url": "assets/6551b8588a9121f616bd6c34/pip/怎么样能让codex能力翻倍-画中画-01.mp4",
+          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/6551b8588a9121f616bd6c34/pip/%E6%80%8E%E4%B9%88%E6%A0%B7%E8%83%BD%E8%AE%A9codex%E8%83%BD%E5%8A%9B%E7%BF%BB%E5%80%8D-%E7%94%BB%E4%B8%AD%E7%94%BB-01.mp4?download=1",
+          "mediaType": "video"
+        }
+      ],
       "claimFiles": [
         {
           "name": "怎么样能让codex能力翻倍-领取资料-01.pdf",
@@ -437,6 +456,12 @@
           "mediaType": "video"
         },
         {
+          "name": "Codex最值得装的10个Skill-画中画-06.mp4",
+          "url": "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-06.mp4",
+          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/b586fd5478cb5bdc85bd9d49/pip/Codex%E6%9C%80%E5%80%BC%E5%BE%97%E8%A3%85%E7%9A%8410%E4%B8%AASkill-%E7%94%BB%E4%B8%AD%E7%94%BB-06.mp4?download=1",
+          "mediaType": "video"
+        },
+        {
           "name": "Codex最值得装的10个Skill-画中画-07.mp4",
           "url": "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-07.mp4",
           "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/b586fd5478cb5bdc85bd9d49/pip/Codex%E6%9C%80%E5%80%BC%E5%BE%97%E8%A3%85%E7%9A%8410%E4%B8%AASkill-%E7%94%BB%E4%B8%AD%E7%94%BB-07.mp4?download=1",
@@ -533,334 +558,7 @@
           "mediaType": "document"
         }
       ]
-    },
-    {
-      "id": "a889c23e642b2dfd488ec8b6",
-      "title": "Codex新功能！电脑历史一键参考",
-      "referencePreview": "assets/a889c23e642b2dfd488ec8b6/reference/preview.mp4",
-      "overlayTitle": "Codex新功能！电脑历史一键参考",
-      "scriptText": "Codex 又更新了，这次的更新多了一个新的功能，叫 Computer History。当你把这个功能开启之后，Codex 可以参考你电脑上的工作历史，把你最近在APP和网页里的操作，甚至是你喜欢用的什么快捷键都给记下来了。所以它有一个非常实用的新玩法，就是你每天在下班之前定期的总结你的电脑操作，并将反复出现的工作流沉淀成 Skill。这里的提示词我整理好了，评论区打111自取。它比 Computer Use 更恐怖的地方就是，它能记住你手上的操作、鼠标点击习惯、快捷键等等。但是这个是需要手动去开启的，并且可以查看、暂停和删除历史。所以我觉得，如果你经常用 Codex 去做项目，去辅助你的工作，那这个功能将大大提高你的工作效率。但如果你电脑里有很多隐私内容，那我觉得还是先别急着开。关注我，把每天重复的工作变成可复用的流程",
-      "publishCopy": "Codex 新功能 一招让你提高工作效率 #抖音创作者大会 #computerhistory #codex #AI编程 #AI工作流",
-      "claimText": "领取提示词：\n请定期总结我电脑上的近期操作记录。\n\n任务目标：\n基于 Computer History 中可用的本地活动记录，总结我在指定时间窗口内的主要电脑操作、工作上下文、任务进展和可执行后续事项。\n\n时间范围：\n总结本次运行前的最近 {时间范围}，例如最近 1 小时 / 最近 6 小时 / 今天 09:00 到现在。\n\n数据使用要求：\n1. 先检查 Computer History 当前状态和可用记录时间范围。\n2. 只使用 Computer History 中实际记录到的证据，不要编造未观察到的活动。\n3. 如果记录缺失、暂停、停止或时间范围不完整，请在报告开头明确说明。\n4. 对网页、应用、文件、窗口标题、选中文本等信息进行归纳，而不是逐条流水账复述。\n5. 不要泄露敏感内容的完整原文，例如密码、验证码、私密聊天、银行卡、身份证、API Key、医疗或法律隐私信息。如发现疑似敏感内容，只做脱敏概括。\n\n输出格式：\n请使用以下结构输出：\n\n# 电脑操作总结\n\n## 1. 总体概览\n用 3-5 句话总结这段时间主要在做什么、工作重心是什么、是否存在明显的上下文切换。\n\n## 2. 时间线\n按时间顺序列出关键活动，每条包含：\n- 时间段\n- 应用或网站\n- 操作概括\n- 可能对应的任务或目的\n\n## 3. 主要任务\n归纳出 1-5 个主要任务。每个任务包含：\n- 任务名称\n- 相关应用 / 网站 / 文件\n- 已完成的动作\n- 当前进展判断\n- 仍未完成或可能需要继续的事项\n\n## 4. 注意事项\n列出可能值得我注意的内容，例如：\n- 长时间停留但没有明显产出的任务\n- 频繁切换导致的上下文碎片\n- 可能遗漏的后续动作\n- 需要回到某个网页、文档或代码位置继续处理的事项\n\n## 5. 下一步建议\n给出具体、可执行的下一步建议，不要泛泛而谈。每条建议尽量包含动作对象和原因。\n\n质量要求：\n- 语言简洁、客观、像工作日志，不要写成情绪化评价。\n- 区分“观察到的事实”和“基于事实的推断”。\n- 如果无法判断目的，请明确写“无法从记录判断”。\n- 不要输出无关的系统事件、后台噪音或重复窗口切换，除非它们影响工作判断",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "Codex新功能!电脑历史一键参考-画中画-01.mp4",
-          "url": "assets/a889c23e642b2dfd488ec8b6/pip/Codex新功能!电脑历史一键参考-画中画-01.mp4",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/a889c23e642b2dfd488ec8b6/pip/Codex%E6%96%B0%E5%8A%9F%E8%83%BD!%E7%94%B5%E8%84%91%E5%8E%86%E5%8F%B2%E4%B8%80%E9%94%AE%E5%8F%82%E8%80%83-%E7%94%BB%E4%B8%AD%E7%94%BB-01.mp4?download=1",
-          "mediaType": "video"
-        },
-        {
-          "name": "Codex新功能!电脑历史一键参考-画中画-02.mp4",
-          "url": "assets/a889c23e642b2dfd488ec8b6/pip/Codex新功能!电脑历史一键参考-画中画-02.mp4",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/a889c23e642b2dfd488ec8b6/pip/Codex%E6%96%B0%E5%8A%9F%E8%83%BD!%E7%94%B5%E8%84%91%E5%8E%86%E5%8F%B2%E4%B8%80%E9%94%AE%E5%8F%82%E8%80%83-%E7%94%BB%E4%B8%AD%E7%94%BB-02.mp4?download=1",
-          "mediaType": "video"
-        },
-        {
-          "name": "Codex新功能!电脑历史一键参考-画中画-03.mp4",
-          "url": "assets/a889c23e642b2dfd488ec8b6/pip/Codex新功能!电脑历史一键参考-画中画-03.mp4",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/a889c23e642b2dfd488ec8b6/pip/Codex%E6%96%B0%E5%8A%9F%E8%83%BD!%E7%94%B5%E8%84%91%E5%8E%86%E5%8F%B2%E4%B8%80%E9%94%AE%E5%8F%82%E8%80%83-%E7%94%BB%E4%B8%AD%E7%94%BB-03.mp4?download=1",
-          "mediaType": "video"
-        }
-      ],
-      "claimFiles": []
-    },
-    {
-      "id": "de4f0effa5d5409fddce30b0",
-      "title": "Codex越用越笨很多人忽略了这一点",
-      "referencePreview": "assets/de4f0effa5d5409fddce30b0/reference/preview.mp4",
-      "overlayTitle": "Codex越用越笨很多人忽略了这一点",
-      "scriptText": "Codex越聊越笨，不一定是模型不行。最近看到一个长期使用者的复盘，他每天高强度用Codex和Claude Code，最后发现一个问题：真正拖垮效果的，可能不是模型能力，而是上下文污染。什么意思？你让Codex跑一个项目，前面分析过需求，中间改过文件，后面又排查报错，再后来你临时改方向。这些旧信息、旧判断、旧报错、旧方案，全都堆在同一个对话里。时间一长，它就容易开始混。明明你已经换目标了，它还在按前面的思路回答。明明这个错误已经解决了，它还在围绕旧报错打转。明明你只是想改一个小功能，它却开始把整个项目重新设计一遍。所以长时间用Codex，最重要的不是一直聊下去，而是学会在关键节点清理上下文。我建议你这么做：一个阶段结束，就让Codex写一份交接说明。写清楚现在做什么，已经完成什么，改了哪些文件，当前卡在哪里，下一步要做什么，哪些坑不要再踩。然后新开一个会话，只丢这份交接说明。这样新会话拿到的是干净上下文，不会被前面的废信息带偏。尤其是部署项目、改代码、排查bug、做复杂工作流的时候，这个习惯非常重要。Codex不是不能长时间工作，而是你不能让它一直背着一堆旧上下文往前跑。我整理了一份《Codex肠任务上下文清理模板》。评论区打：清理，我发你。关注我，后面继续分享更多让Codex少返工、少跑偏的实操方法。",
-      "publishCopy": "长时间用Codex，一定要学会清理上下文#Codex #AI工具 #AI编程 #提示词 #效率工具",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [],
-      "claimFiles": [
-        {
-          "name": "Codex越用越笨很多人忽略了这一点-领取资料-01.pdf",
-          "url": "assets/de4f0effa5d5409fddce30b0/claim/Codex越用越笨很多人忽略了这一点-领取资料-01.pdf",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/de4f0effa5d5409fddce30b0/claim/Codex%E8%B6%8A%E7%94%A8%E8%B6%8A%E7%AC%A8%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%BF%BD%E7%95%A5%E4%BA%86%E8%BF%99%E4%B8%80%E7%82%B9-%E9%A2%86%E5%8F%96%E8%B5%84%E6%96%99-01.pdf?download=1",
-          "mediaType": "document"
-        }
-      ]
-    },
-    {
-      "id": "48c86716d2a87853de4aa427",
-      "title": "codex开放权重后，AI工作流巨变",
-      "referencePreview": "assets/48c86716d2a87853de4aa427/reference/preview.mp4",
-      "overlayTitle": "codex开放权重后，AI工作流巨变",
-      "scriptText": "黄仁勋的第一篇帖子，真正值得普通人关注的不是开放权重这四个字，而是它背后的一个变化：AI正在从聊天工具，变成你自己的工作系统。以前我们用AI，大多是打开网页，复制一段资料，问一句问题，然后拿结果。但开放权重模型出现以后，模型可以更容易接进本地电脑、公司文档、知识库和自动化流程里。比如你的选题库、客户资料、历史文案、项目文件，都可以慢慢变成一个专属AI工作流。它不只是回答你，而是越来越懂你的资料、你的流程、你的行业。对普通人来说，这才是重点。未来拉开差距的，不是谁知道更多模型名字，而是谁先把AI接进自己的工作里。我整理了一份个人AI工作流搭建清单。评论区打：工作流，我发你。关注我，后面继续用真实案例拆解个人AI工作流怎么搭。",
-      "publishCopy": "真正会用AI的人，已经开始搭自己的工作流了#AI工具 #AI工作流 #人工智能 #效率提升 #个人成长",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "codex开放权重后,AI工作流巨变-画中画-01.png",
-          "url": "assets/48c86716d2a87853de4aa427/pip/codex开放权重后,AI工作流巨变-画中画-01.png",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/48c86716d2a87853de4aa427/pip/codex%E5%BC%80%E6%94%BE%E6%9D%83%E9%87%8D%E5%90%8E%2CAI%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%B7%A8%E5%8F%98-%E7%94%BB%E4%B8%AD%E7%94%BB-01.png?download=1",
-          "mediaType": "image"
-        }
-      ],
-      "claimFiles": []
-    },
-    {
-      "id": "5ffb00c44dc5b8b974724b18",
-      "title": "治好AI瞎写代码 skil直接给ai立规矩",
-      "referencePreview": "assets/5ffb00c44dc5b8b974724b18/reference/preview.mp4",
-      "overlayTitle": "治好AI瞎写代码 skil直接给ai立规矩",
-      "scriptText": "为了治 AI 瞎写代码胡说八道的臭毛病，这位大神程序员亲自下场了，直接做了这个 Skill 专门给 AI 编程立规矩。这个 Skill 已经拿下了 17.3 万颗星。它介绍写的就很硬，真正工程师必备的技能。作者 Matt Pocock，前 Vercel 工程师，也是 Total TypeScript 创作者。别看这些 Skill 文件都不长，里面全是浓缩版的 AI 编程原则。它解决的正是大家用 AI 写代码时最头疼的几个问题：听不懂需求、回答特别啰嗦、疯狂浪费 Token，最后还给出一堆臃肿没法维护的代码。以前的 AI 是想到哪儿写到哪儿，现在它得听这套技术规范的 Skill，告诉它什么能做、什么不能做、代码要怎么组织、结果要怎么验收。说白了就是把 AI 从\"凭感觉写代码”强行训练成按工程标准去交付。所以，这个项目真正厉害的地方不是代码有多长，而是它直接给 AI 套上一套工程师的缰绳。AI 可能越来越聪明，但它照样能把项目写成一团乱，所以，现在就要给它立好规矩，这套Skill真正有价值的地方，是把AI编程从“凭感觉生成”，变成“按规则交付”。我把里面最适合普通人使用的规则，整理成了一份清单。评论区打：规矩，我发你。后面继续拆解这些规则怎么装进Codex、怎么实际使用。",
-      "publishCopy": "ai瞎写代码终于有救了，这个项目直接给它立规矩 #ai #skill #vibecoding",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "治好AI瞎写代码-skil直接给ai立规矩-画中画-01.mp4",
-          "url": "assets/5ffb00c44dc5b8b974724b18/pip/治好AI瞎写代码-skil直接给ai立规矩-画中画-01.mp4",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/5ffb00c44dc5b8b974724b18/pip/%E6%B2%BB%E5%A5%BDAI%E7%9E%8E%E5%86%99%E4%BB%A3%E7%A0%81-skil%E7%9B%B4%E6%8E%A5%E7%BB%99ai%E7%AB%8B%E8%A7%84%E7%9F%A9-%E7%94%BB%E4%B8%AD%E7%94%BB-01.mp4?download=1",
-          "mediaType": "video"
-        },
-        {
-          "name": "治好AI瞎写代码-skil直接给ai立规矩-画中画-02.mp4",
-          "url": "assets/5ffb00c44dc5b8b974724b18/pip/治好AI瞎写代码-skil直接给ai立规矩-画中画-02.mp4",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/5ffb00c44dc5b8b974724b18/pip/%E6%B2%BB%E5%A5%BDAI%E7%9E%8E%E5%86%99%E4%BB%A3%E7%A0%81-skil%E7%9B%B4%E6%8E%A5%E7%BB%99ai%E7%AB%8B%E8%A7%84%E7%9F%A9-%E7%94%BB%E4%B8%AD%E7%94%BB-02.mp4?download=1",
-          "mediaType": "video"
-        },
-        {
-          "name": "治好AI瞎写代码-skil直接给ai立规矩-画中画-03.png",
-          "url": "assets/5ffb00c44dc5b8b974724b18/pip/治好AI瞎写代码-skil直接给ai立规矩-画中画-03.png",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/5ffb00c44dc5b8b974724b18/pip/%E6%B2%BB%E5%A5%BDAI%E7%9E%8E%E5%86%99%E4%BB%A3%E7%A0%81-skil%E7%9B%B4%E6%8E%A5%E7%BB%99ai%E7%AB%8B%E8%A7%84%E7%9F%A9-%E7%94%BB%E4%B8%AD%E7%94%BB-03.png?download=1",
-          "mediaType": "image"
-        },
-        {
-          "name": "治好AI瞎写代码-skil直接给ai立规矩-画中画-04.mp4",
-          "url": "assets/5ffb00c44dc5b8b974724b18/pip/治好AI瞎写代码-skil直接给ai立规矩-画中画-04.mp4",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/5ffb00c44dc5b8b974724b18/pip/%E6%B2%BB%E5%A5%BDAI%E7%9E%8E%E5%86%99%E4%BB%A3%E7%A0%81-skil%E7%9B%B4%E6%8E%A5%E7%BB%99ai%E7%AB%8B%E8%A7%84%E7%9F%A9-%E7%94%BB%E4%B8%AD%E7%94%BB-04.mp4?download=1",
-          "mediaType": "video"
-        },
-        {
-          "name": "治好AI瞎写代码-skil直接给ai立规矩-画中画-05.mp4",
-          "url": "assets/5ffb00c44dc5b8b974724b18/pip/治好AI瞎写代码-skil直接给ai立规矩-画中画-05.mp4",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/5ffb00c44dc5b8b974724b18/pip/%E6%B2%BB%E5%A5%BDAI%E7%9E%8E%E5%86%99%E4%BB%A3%E7%A0%81-skil%E7%9B%B4%E6%8E%A5%E7%BB%99ai%E7%AB%8B%E8%A7%84%E7%9F%A9-%E7%94%BB%E4%B8%AD%E7%94%BB-05.mp4?download=1",
-          "mediaType": "video"
-        }
-      ],
-      "claimFiles": []
-    },
-    {
-      "id": "729c83ca7ce378236764c6f0",
-      "title": "Codex的神奇玩法 很多人没发现",
-      "referencePreview": "assets/729c83ca7ce378236764c6f0/reference/preview.mp4",
-      "overlayTitle": "Codex的神奇玩法 很多人没发现",
-      "scriptText": "Codex 有一个很容易被忽略的神奇玩法，想让 Codex 变强，不一定非要自己一个个找插件，你可以直接让 Codex 自己去看 OpenAI Plugins。现在里面已经有一百多个插件，覆盖做应用、接 Figma、用 Notion、部署 Vercel、处理项目文件、自动化开发流程等等。你可以直接输入这句话，查看 OpenAI Plugins 我的仓库以及我的工作方式，先判断我应该安装和配置哪些插件，列出推荐清单和理由，等我确认后再帮我完成设置。这样 Codex 会根据你的仓库和工作方式，自己判断哪些插件适合你，哪些插件能提升项目效率。这就是让 Codex 自己给自己装外挂。我已经把这段可以直接复制的插件筛选提示词，以及常用插件的适用场景整理好了。需要的，评论区打“插件”，我把完整资料发给你。",
-      "publishCopy": "Codex的神级玩法，很多人还没发现 #AI #Codex #AI智能体 #AI超级个体",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "Codex的神奇玩法-很多人没发现-画中画-01.mp4",
-          "url": "assets/729c83ca7ce378236764c6f0/pip/Codex的神奇玩法-很多人没发现-画中画-01.mp4",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/729c83ca7ce378236764c6f0/pip/Codex%E7%9A%84%E7%A5%9E%E5%A5%87%E7%8E%A9%E6%B3%95-%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%B2%A1%E5%8F%91%E7%8E%B0-%E7%94%BB%E4%B8%AD%E7%94%BB-01.mp4?download=1",
-          "mediaType": "video"
-        },
-        {
-          "name": "Codex的神奇玩法-很多人没发现-画中画-02.mp4",
-          "url": "assets/729c83ca7ce378236764c6f0/pip/Codex的神奇玩法-很多人没发现-画中画-02.mp4",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/729c83ca7ce378236764c6f0/pip/Codex%E7%9A%84%E7%A5%9E%E5%A5%87%E7%8E%A9%E6%B3%95-%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%B2%A1%E5%8F%91%E7%8E%B0-%E7%94%BB%E4%B8%AD%E7%94%BB-02.mp4?download=1",
-          "mediaType": "video"
-        }
-      ],
-      "claimFiles": [
-        {
-          "name": "Codex的神奇玩法-很多人没发现-领取资料-01.pdf",
-          "url": "assets/729c83ca7ce378236764c6f0/claim/Codex的神奇玩法-很多人没发现-领取资料-01.pdf",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/729c83ca7ce378236764c6f0/claim/Codex%E7%9A%84%E7%A5%9E%E5%A5%87%E7%8E%A9%E6%B3%95-%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%B2%A1%E5%8F%91%E7%8E%B0-%E9%A2%86%E5%8F%96%E8%B5%84%E6%96%99-01.pdf?download=1",
-          "mediaType": "document"
-        }
-      ]
-    },
-    {
-      "id": "86fddf68b4e599f523dd94a8",
-      "title": "codex总在压缩上下文？这样处理",
-      "referencePreview": "assets/86fddf68b4e599f523dd94a8/reference/preview.mp4",
-      "overlayTitle": "codex总在压缩上下文？这样处理",
-      "scriptText": "如果你的Codex每问一个问题，都要先卡在“正在压缩上下文”，先别急着怪网速。这个提示其实是在告诉你：这个聊天框已经塞得太满了。你可以看看自己的Codex提问框，是不是提问以后，它会先提示正在压缩上下文，等这个过程结束，才开始回答。这并不是Codex坏了，而是这个对话用了太久，旧需求、文件内容、执行结果和历史消息堆得越来越多。当上下文接近阈值时，Codex会自动压缩之前的内容，再继续处理新的问题。这个过程可能会让你多等一会儿；如果一直留在同一个超长对话里，还可能反复触发。想让它重新轻装上阵，不需要删除项目，也不用从头解释一遍。你先把这段指令发给Codex。文件生成以后，新开一个聊天框，把这个MD文件保留在项目里或者上传到新聊天框，再输入这个，这样既不用重新介绍整个项目，也不会继续带着几十轮旧对话往前跑，相当于给Codex做了一次上下文搬家。我把总结旧对话和恢复新对话的两段指令整理好了，需要的评论区打“上下文”，直接复制就能用。",
-      "publishCopy": "Codex频繁压缩上下文怎么办？用这两段指令重新开工#Codex #Codex实操 #上下文管理 #GPT56 #AI工作流",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "codex总在压缩上下文这样处理-画中画-01.png",
-          "url": "assets/86fddf68b4e599f523dd94a8/pip/codex总在压缩上下文这样处理-画中画-01.png",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/86fddf68b4e599f523dd94a8/pip/codex%E6%80%BB%E5%9C%A8%E5%8E%8B%E7%BC%A9%E4%B8%8A%E4%B8%8B%E6%96%87%E8%BF%99%E6%A0%B7%E5%A4%84%E7%90%86-%E7%94%BB%E4%B8%AD%E7%94%BB-01.png?download=1",
-          "mediaType": "image"
-        },
-        {
-          "name": "codex总在压缩上下文这样处理-画中画-02.png",
-          "url": "assets/86fddf68b4e599f523dd94a8/pip/codex总在压缩上下文这样处理-画中画-02.png",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/86fddf68b4e599f523dd94a8/pip/codex%E6%80%BB%E5%9C%A8%E5%8E%8B%E7%BC%A9%E4%B8%8A%E4%B8%8B%E6%96%87%E8%BF%99%E6%A0%B7%E5%A4%84%E7%90%86-%E7%94%BB%E4%B8%AD%E7%94%BB-02.png?download=1",
-          "mediaType": "image"
-        },
-        {
-          "name": "codex总在压缩上下文这样处理-画中画-03.png",
-          "url": "assets/86fddf68b4e599f523dd94a8/pip/codex总在压缩上下文这样处理-画中画-03.png",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/86fddf68b4e599f523dd94a8/pip/codex%E6%80%BB%E5%9C%A8%E5%8E%8B%E7%BC%A9%E4%B8%8A%E4%B8%8B%E6%96%87%E8%BF%99%E6%A0%B7%E5%A4%84%E7%90%86-%E7%94%BB%E4%B8%AD%E7%94%BB-03.png?download=1",
-          "mediaType": "image"
-        }
-      ],
-      "claimFiles": []
-    },
-    {
-      "id": "31daa247f182e81a9066cc60",
-      "title": "高手用codex，3个流程拉开差距",
-      "referencePreview": "assets/31daa247f182e81a9066cc60/reference/preview.mp4",
-      "overlayTitle": "高手用codex，3个流程拉开差距",
-      "scriptText": "Codex用久了以后，一定要跑这个任务。你把这句话发给它：“请你复盘我最近反复让你做的任务，找出最适合沉淀成Skill的3个流程。每个流程写清楚：适用场景、输入材料、执行步骤、输出结果。”这个任务很重要。因为普通人用Codex，每次都是想到什么问什么。但高手用Codex，会把重复任务沉淀成Skill。我自己是做金融行业的，最近高频用Codex做行业资料、内容和流程整理，越用越发现：很多任务不是不会做，而是每次都在重复说一遍。比如行业资料整理Skill、市场信息复盘Skill、客户沟通整理Skill。一旦沉淀下来，以后你就不用每次重新解释。你只要告诉Codex：按这个Skill跑。它就知道该怎么做，也知道最后要给你什么结果。普通人用AI，是临时提问。高手用AI，是沉淀流程。我把这个Skill提炼提示词整理好了。想要的，评论区打，Skill，我发给你，记住，真正拉开差距的，不是你问了AI多少次，而是你沉淀了多少套能反复执行的流程。",
-      "publishCopy": "别每次都重新教 Codex，把重复任务沉淀成 Skill#Codex #Skill #AI工具 #AI提效 #AI工作流 #AI自动化 #普通人学AI #数字员工 #效率工具",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [],
-      "claimFiles": [
-        {
-          "name": "高手用codex,3个流程拉开差距-领取资料-01.pdf",
-          "url": "assets/31daa247f182e81a9066cc60/claim/高手用codex,3个流程拉开差距-领取资料-01.pdf",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/31daa247f182e81a9066cc60/claim/%E9%AB%98%E6%89%8B%E7%94%A8codex%2C3%E4%B8%AA%E6%B5%81%E7%A8%8B%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D-%E9%A2%86%E5%8F%96%E8%B5%84%E6%96%99-01.pdf?download=1",
-          "mediaType": "document"
-        },
-        {
-          "name": "高手用codex,3个流程拉开差距-领取资料-02.md",
-          "url": "assets/31daa247f182e81a9066cc60/claim/高手用codex,3个流程拉开差距-领取资料-02.md",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/31daa247f182e81a9066cc60/claim/%E9%AB%98%E6%89%8B%E7%94%A8codex%2C3%E4%B8%AA%E6%B5%81%E7%A8%8B%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D-%E9%A2%86%E5%8F%96%E8%B5%84%E6%96%99-02.md?download=1",
-          "mediaType": "text"
-        }
-      ]
-    },
-    {
-      "id": "ff4a704de35b44f8191aea20",
-      "title": "codex总在压缩上下文？这样处理",
-      "referencePreview": "assets/ff4a704de35b44f8191aea20/reference/preview.mp4",
-      "overlayTitle": "codex总在压缩上下文？这样处理",
-      "scriptText": "如果你的Codex每问一个问题，都要先卡在“正在压缩上下文”，先别急着怪网速。这个提示其实是在告诉你：这个聊天框已经塞得太满了。你可以看看自己的Codex提问框，是不是提问以后，它会先提示正在压缩上下文，等这个过程结束，才开始回答。这并不是Codex坏了，而是这个对话用了太久，旧需求、文件内容、执行结果和历史消息堆得越来越多。当上下文接近阈值时，Codex会自动压缩之前的内容，再继续处理新的问题。这个过程可能会让你多等一会儿；如果一直留在同一个超长对话里，还可能反复触发。想让它重新轻装上阵，不需要删除项目，也不用从头解释一遍。你先把这段指令发给Codex。文件生成以后，新开一个聊天框，把这个MD文件保留在项目里或者上传到新聊天框，再输入这个，这样既不用重新介绍整个项目，也不会继续带着几十轮旧对话往前跑，相当于给Codex做了一次上下文搬家。我把总结旧对话和恢复新对话的两段指令整理好了，需要的评论区打“上下文”，直接复制就能用。",
-      "publishCopy": "Codex频繁压缩上下文怎么办？用这两段指令重新开工#Codex #Codex实操 #上下文管理 #GPT56 #AI工作流",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "codex总在压缩上下文这样处理-画中画-01.png",
-          "url": "assets/ff4a704de35b44f8191aea20/pip/codex总在压缩上下文这样处理-画中画-01.png",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/ff4a704de35b44f8191aea20/pip/codex%E6%80%BB%E5%9C%A8%E5%8E%8B%E7%BC%A9%E4%B8%8A%E4%B8%8B%E6%96%87%E8%BF%99%E6%A0%B7%E5%A4%84%E7%90%86-%E7%94%BB%E4%B8%AD%E7%94%BB-01.png?download=1",
-          "mediaType": "image"
-        },
-        {
-          "name": "codex总在压缩上下文这样处理-画中画-02.png",
-          "url": "assets/ff4a704de35b44f8191aea20/pip/codex总在压缩上下文这样处理-画中画-02.png",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/ff4a704de35b44f8191aea20/pip/codex%E6%80%BB%E5%9C%A8%E5%8E%8B%E7%BC%A9%E4%B8%8A%E4%B8%8B%E6%96%87%E8%BF%99%E6%A0%B7%E5%A4%84%E7%90%86-%E7%94%BB%E4%B8%AD%E7%94%BB-02.png?download=1",
-          "mediaType": "image"
-        },
-        {
-          "name": "codex总在压缩上下文这样处理-画中画-03.png",
-          "url": "assets/ff4a704de35b44f8191aea20/pip/codex总在压缩上下文这样处理-画中画-03.png",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/ff4a704de35b44f8191aea20/pip/codex%E6%80%BB%E5%9C%A8%E5%8E%8B%E7%BC%A9%E4%B8%8A%E4%B8%8B%E6%96%87%E8%BF%99%E6%A0%B7%E5%A4%84%E7%90%86-%E7%94%BB%E4%B8%AD%E7%94%BB-03.png?download=1",
-          "mediaType": "image"
-        }
-      ],
-      "claimFiles": []
-    },
-    {
-      "id": "1a9e61e21f5fa8edbc923664",
-      "title": "3个Skill让Codex效率翻倍",
-      "referencePreview": "assets/1a9e61e21f5fa8edbc923664/reference/preview.mp4",
-      "overlayTitle": "3个Skill让Codex效率翻倍",
-      "scriptText": "CodeX真正拉开效率差距的可能不是模型，而是你给它安装了什么skill。今天给大家分享三个特别实用的skill，特别是最后一个，建议所有人都去安装。第一个 Last thirty Days 相当于给 CodeX 装上热点雷达，它会搜索海内外各大社交平台，整理最近三十天的真实讨论、热门评论和争议观点，做自媒体选题、行业调研、追踪AI趋势都可以直接用，而且特别方便。第二个 GPT Taste相当于给 CodeX 配了一位高级网页设计师，它会主动优化首屏字体、网格和滚动动画，专门解决AI网页千篇一律、排版廉价、缺少质感的问题。第三个 Caveman 相当于沟通压缩器，它会删除客套话和重复解释，同时保留关键技术信息，最多能减少百分之六十五的token输出，还有普通、极简和文言文等模式，一个帮你找到值得做的内容，一个帮你提升成品品质，一个帮你减少沟通成本。这不是三个小工具，而是一套从选题到做成品到提效的完整工作流。这三个skill我已经整理好了，需要的评论区打skill，也可以先收藏，等你真正用CodeX干活时，一定找得到。",
-      "publishCopy": "Codex隐藏技能大公开！自用3个超实用插件#ai #我在抖音聊科技 #skill #codex #短视频干货",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [],
-      "claimFiles": []
-    },
-    {
-      "id": "2f6f4649cbf63533e194f51d",
-      "title": "44万Star爆火 AI视频工厂来了",
-      "referencePreview": "assets/2f6f4649cbf63533e194f51d/reference/preview.mp4",
-      "overlayTitle": "44万Star爆火 AI视频工厂来了",
-      "scriptText": "GitHub这两天最火的项目，居然是一个AI视频剪辑系统。它叫OpenMontage，一个开源AI视频生产工具，短短几天就拿下了44万个Star，直接成为AI圈最火的项目之一。它的厉害之处在于，你不用一步步手动剪视频。你只需要对Claude Code、Codex这类AI编程工具说一句：“我要做一条什么主题、什么风格、什么时长的视频。”接下来，OpenMontage就会自动进入制作流程。它会先帮你研究选题、写脚本、拆分镜头、找素材、生成画面、配音、加字幕、配音乐，最后把所有内容剪辑合成，直接输出一条完整视频。例如，一条包含剧情、动画、背景音乐，甚至是字幕的皮克斯风格动画短片，从脚本到合成，全部都由OpenMontage完成。除了动画短片，像脑机接口、产品广告、科幻电影预告片、数据可视化视频等等，这些它都能做。它背后不是单一的视频生成模型，而是一整套AI视频生产系统。OpenMontage内置了12条视频流水线、52个工具模块，还有500多个Agent Skills。你可以把它理解成一个AI视频工厂。即使不接API，OpenMontage也能用一些免费能力，比如本地配音工具、各种公开素材库，以及基础的视频剪辑和字幕工具，做出简单的视频内容。非常适合短视频创作者、内容团队，以及想要批量化生产视频的朋友。以后做视频就变得更加简单高效了。关注我，评论区扣，剪辑，找我发给你吧。",
-      "publishCopy": "连夜冲上热榜第一，AI全自动视频生产开源智能体！#OpenMontage #AI视频 #AI剪辑 #codex #Agent",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [],
-      "claimFiles": []
-    },
-    {
-      "id": "29b2c2cf91edc151ae14ddd3",
-      "title": "3个Skill让Codex效率翻倍",
-      "referencePreview": "assets/29b2c2cf91edc151ae14ddd3/reference/preview.mp4",
-      "overlayTitle": "3个Skill让Codex效率翻倍",
-      "scriptText": "小白使用 Codex 为什么总是感觉 Codex 很笨？因为 Codex 刚开始没有技能，而且他也不知道什么时候该用什么技能，他虽然很聪明。但是，没有这三个 Skill 互相配合，是哪三个 Skill 呢？第一个 Skill，是技能的调度器，每次操作之前都会去检查有没有可用的技能。然后，进行规划前必须先完成头脑风暴，就大家做任务的时候，他必须先完成头脑风暴才会进行下一步。第二个 Skill，是技能搜索和安装助手，用户提出需求，然后 Codex 会自动提出这个技能，并检索需要的技能，挑选合适的技能再去安装，达到自行迭代。第三个 Skill，就是在开发创意和复杂任务时会提问，然后先出方案，才会去干。安装也很简单，直接复制下来丢进你的 Codex，让它下载并且告诉你技能的用途。关于 Codex 的所有使用技巧我也准备好了，需要的评论区 666 自取。",
-      "publishCopy": "新手小白codex必备的三个skill #codex #ai #codedex使用教程 #电脑小白知识普及 #aigc",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [],
-      "claimFiles": []
-    },
-    {
-      "id": "fced016dbbb011f342e28898",
-      "title": "让codex直接操作 Photoshop！太牛了",
-      "referencePreview": "assets/fced016dbbb011f342e28898/reference/preview.mp4",
-      "overlayTitle": "让codex直接操作 Photoshop！太牛了",
-      "scriptText": "别再把图片上传给Codex了：让它直接操作Photoshop，效果完全不一样。很多人现在用AI修图，还是把图片丢给模型，然后等它重新生成一张。但这样最大的问题是，图片很容易变味。脸会变，颜色会变，细节也会被重画。真正更稳的方式，是让Codex直接去操作Photoshop。什么意思？不是让Codex凭空生成图片，而是让它像一个修图助理一样，打开Photoshop，调用里面的工具，一步一步完成修图。比如调色、去瑕疵、改背景、处理图层、导出成片，这些原本要你手动点半天的操作，都可以让Codex帮你执行。它的优势在于，原图还在，图层还在，参数也能控制，所以更适合做无损修图和精细调色。这其实代表一个很重要的变化：AI不再只是给你生成结果，而是开始帮你操作专业软件。以后会用AI的人，不是只会把图上传给模型的人，而是会让AI接管工具流程的人。我整理了一份Codex操作Photoshop的实操提示词。评论区打：修图，我发你。照着写，Codex就能变成你的AI修图助理。",
-      "publishCopy": "别再把图片发给 Codex 了，让它直接操作 Photoshop#Codex #Photoshop #AI修图 #AI工具 #AI工作流",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "让codex直接操作-Photoshop!太牛了-画中画-01.mp4",
-          "url": "assets/fced016dbbb011f342e28898/pip/让codex直接操作-Photoshop!太牛了-画中画-01.mp4",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/fced016dbbb011f342e28898/pip/%E8%AE%A9codex%E7%9B%B4%E6%8E%A5%E6%93%8D%E4%BD%9C-Photoshop!%E5%A4%AA%E7%89%9B%E4%BA%86-%E7%94%BB%E4%B8%AD%E7%94%BB-01.mp4?download=1",
-          "mediaType": "video"
-        },
-        {
-          "name": "让codex直接操作-Photoshop!太牛了-画中画-02.mp4",
-          "url": "assets/fced016dbbb011f342e28898/pip/让codex直接操作-Photoshop!太牛了-画中画-02.mp4",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/fced016dbbb011f342e28898/pip/%E8%AE%A9codex%E7%9B%B4%E6%8E%A5%E6%93%8D%E4%BD%9C-Photoshop!%E5%A4%AA%E7%89%9B%E4%BA%86-%E7%94%BB%E4%B8%AD%E7%94%BB-02.mp4?download=1",
-          "mediaType": "video"
-        }
-      ],
-      "claimFiles": []
-    },
-    {
-      "id": "e8122856e326cc6c8367ad45",
-      "title": "让codex直接操作 Photoshop！太牛了",
-      "referencePreview": "assets/e8122856e326cc6c8367ad45/reference/preview.mp4",
-      "overlayTitle": "让codex直接操作 Photoshop！太牛了",
-      "scriptText": "别再把图片上传给Codex了：让它直接操作Photoshop，效果完全不一样。很多人现在用AI修图，还是把图片丢给模型，然后等它重新生成一张。但这样最大的问题是，图片很容易变味。脸会变，颜色会变，细节也会被重画。真正更稳的方式，是让Codex直接去操作Photoshop。什么意思？不是让Codex凭空生成图片，而是让它像一个修图助理一样，打开Photoshop，调用里面的工具，一步一步完成修图。比如调色、去瑕疵、改背景、处理图层、导出成片，这些原本要你手动点半天的操作，都可以让Codex帮你执行。它的优势在于，原图还在，图层还在，参数也能控制，所以更适合做无损修图和精细调色。这其实代表一个很重要的变化：AI不再只是给你生成结果，而是开始帮你操作专业软件。以后会用AI的人，不是只会把图上传给模型的人，而是会让AI接管工具流程的人。我整理了一份Codex操作Photoshop的实操提示词。评论区打：修图，我发你。照着写，Codex就能变成你的AI修图助理。",
-      "publishCopy": "别再把图片发给 Codex 了，让它直接操作 Photoshop#Codex #Photoshop #AI修图 #AI工具 #AI工作流",
-      "claimText": "",
-      "claimUrl": "",
-      "pip": [
-        {
-          "name": "让codex直接操作-Photoshop!太牛了-画中画-01.mp4",
-          "url": "assets/e8122856e326cc6c8367ad45/pip/让codex直接操作-Photoshop!太牛了-画中画-01.mp4",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/e8122856e326cc6c8367ad45/pip/%E8%AE%A9codex%E7%9B%B4%E6%8E%A5%E6%93%8D%E4%BD%9C-Photoshop!%E5%A4%AA%E7%89%9B%E4%BA%86-%E7%94%BB%E4%B8%AD%E7%94%BB-01.mp4?download=1",
-          "mediaType": "video"
-        },
-        {
-          "name": "让codex直接操作-Photoshop!太牛了-画中画-02.mp4",
-          "url": "assets/e8122856e326cc6c8367ad45/pip/让codex直接操作-Photoshop!太牛了-画中画-02.mp4",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/e8122856e326cc6c8367ad45/pip/%E8%AE%A9codex%E7%9B%B4%E6%8E%A5%E6%93%8D%E4%BD%9C-Photoshop!%E5%A4%AA%E7%89%9B%E4%BA%86-%E7%94%BB%E4%B8%AD%E7%94%BB-02.mp4?download=1",
-          "mediaType": "video"
-        }
-      ],
-      "claimFiles": [
-        {
-          "name": "让codex直接操作-Photoshop!太牛了-领取资料-01.pdf",
-          "url": "assets/e8122856e326cc6c8367ad45/claim/让codex直接操作-Photoshop!太牛了-领取资料-01.pdf",
-          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/e8122856e326cc6c8367ad45/claim/%E8%AE%A9codex%E7%9B%B4%E6%8E%A5%E6%93%8D%E4%BD%9C-Photoshop!%E5%A4%AA%E7%89%9B%E4%BA%86-%E9%A2%86%E5%8F%96%E8%B5%84%E6%96%99-01.pdf?download=1",
-          "mediaType": "document"
-        }
-      ]
     }
   ],
-  "skipped": [
-    "assets/6551b8588a9121f616bd6c34/pip/怎么样能让codex能力翻倍-画中画-01.mp4（GitHub 未接受）",
-    "assets/b586fd5478cb5bdc85bd9d49/pip/Codex最值得装的10个Skill-画中画-06.mp4（GitHub 未接受）"
-  ]
+  "skipped": []
 }
