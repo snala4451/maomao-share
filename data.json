@@ -1,10 +1,83 @@
 {
-  "generatedAt": "2026-11-26T08:10:03.222Z",
+  "generatedAt": "2026-11-27T03:34:05.070Z",
   "items": [
+    {
+      "id": "fbabe54e151c54220cbb6cd5",
+      "title": "codex6.2配套的4条官方提示词 写进配置一劳永逸",
+      "referencePreview": "assets/fbabe54e151c54220cbb6cd5/reference/preview.mp4",
+      "overlayTitle": "codex6.2配套的4条官方提示词 写进配置一劳永逸",
+      "scriptText": "用 Codex 干活，有时候你打得最多的两个字，就是「继续」。你让它把功能做完，它改完代码问你：「要不要跑测试？」你说继续。测出个问题，它又回来问：「要不要接着修？」GPT-6.2 到底好不好用？我更关心的是，活交给它以后，我能不能去忙别的？这四条指令，你可以直接写进 Codex。第一条，说人话。结论放第一句，能用一句话讲清楚的事，别铺垫三段。该用专业词就用，但别把一句简单的话写成工作汇报。第二条，交结果的时候，把话说完整。就当我是第一次看这件事，直接告诉我你改了什么、怎么验证的、还有什么没解决。别让我翻回去找你前面说过什么。第三条，长任务别干到一半就停。目标已经说清楚了，权限也给了，那就改完去测，测出问题接着修。等结果验过了，再回来跟我交代。第四条，小细节没说清，可以先做个合理假设。比如导出文件叫什么，你先用个好认的名字，交结果时告诉我就行。但如果是要导出哪些客户数据，这种会影响结果的事，先问清楚。就这四条，平时都想这么用，就放进全局的 AGENTS.md 文件。只想给某个项目用，就写在项目指令里。枯燥的活交给 AI，手上的时间留给自己。想要这四条能直接复制的版本，评论区扣「提示词」，我发你",
+      "publishCopy": "6.2 配套的 4 条官方提示词，写进配置一劳永逸。#GPT6 #OpenAI #提示词 #Prompt #AI工具 #人工智能 #效率神器 #GTA6#codex",
+      "claimText": "",
+      "claimUrl": "",
+      "pip": [
+        {
+          "name": "codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-01.png",
+          "url": "assets/fbabe54e151c54220cbb6cd5/pip/codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-01.png",
+          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/fbabe54e151c54220cbb6cd5/pip/codex6.2%E9%85%8D%E5%A5%97%E7%9A%844%E6%9D%A1%E5%AE%98%E6%96%B9%E6%8F%90%E7%A4%BA%E8%AF%8D-%E5%86%99%E8%BF%9B%E9%85%8D%E7%BD%AE%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8-%E7%94%BB%E4%B8%AD%E7%94%BB-01.png?download=1",
+          "mediaType": "image"
+        },
+        {
+          "name": "codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-02.png",
+          "url": "assets/fbabe54e151c54220cbb6cd5/pip/codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-02.png",
+          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/fbabe54e151c54220cbb6cd5/pip/codex6.2%E9%85%8D%E5%A5%97%E7%9A%844%E6%9D%A1%E5%AE%98%E6%96%B9%E6%8F%90%E7%A4%BA%E8%AF%8D-%E5%86%99%E8%BF%9B%E9%85%8D%E7%BD%AE%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8-%E7%94%BB%E4%B8%AD%E7%94%BB-02.png?download=1",
+          "mediaType": "image"
+        },
+        {
+          "name": "codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-03.png",
+          "url": "assets/fbabe54e151c54220cbb6cd5/pip/codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-03.png",
+          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/fbabe54e151c54220cbb6cd5/pip/codex6.2%E9%85%8D%E5%A5%97%E7%9A%844%E6%9D%A1%E5%AE%98%E6%96%B9%E6%8F%90%E7%A4%BA%E8%AF%8D-%E5%86%99%E8%BF%9B%E9%85%8D%E7%BD%AE%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8-%E7%94%BB%E4%B8%AD%E7%94%BB-03.png?download=1",
+          "mediaType": "image"
+        },
+        {
+          "name": "codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-04.png",
+          "url": "assets/fbabe54e151c54220cbb6cd5/pip/codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-04.png",
+          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/fbabe54e151c54220cbb6cd5/pip/codex6.2%E9%85%8D%E5%A5%97%E7%9A%844%E6%9D%A1%E5%AE%98%E6%96%B9%E6%8F%90%E7%A4%BA%E8%AF%8D-%E5%86%99%E8%BF%9B%E9%85%8D%E7%BD%AE%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8-%E7%94%BB%E4%B8%AD%E7%94%BB-04.png?download=1",
+          "mediaType": "image"
+        },
+        {
+          "name": "codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-05.png",
+          "url": "assets/fbabe54e151c54220cbb6cd5/pip/codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-05.png",
+          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/fbabe54e151c54220cbb6cd5/pip/codex6.2%E9%85%8D%E5%A5%97%E7%9A%844%E6%9D%A1%E5%AE%98%E6%96%B9%E6%8F%90%E7%A4%BA%E8%AF%8D-%E5%86%99%E8%BF%9B%E9%85%8D%E7%BD%AE%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8-%E7%94%BB%E4%B8%AD%E7%94%BB-05.png?download=1",
+          "mediaType": "image"
+        },
+        {
+          "name": "codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-06.png",
+          "url": "assets/fbabe54e151c54220cbb6cd5/pip/codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-06.png",
+          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/fbabe54e151c54220cbb6cd5/pip/codex6.2%E9%85%8D%E5%A5%97%E7%9A%844%E6%9D%A1%E5%AE%98%E6%96%B9%E6%8F%90%E7%A4%BA%E8%AF%8D-%E5%86%99%E8%BF%9B%E9%85%8D%E7%BD%AE%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8-%E7%94%BB%E4%B8%AD%E7%94%BB-06.png?download=1",
+          "mediaType": "image"
+        },
+        {
+          "name": "codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-07.png",
+          "url": "assets/fbabe54e151c54220cbb6cd5/pip/codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-07.png",
+          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/fbabe54e151c54220cbb6cd5/pip/codex6.2%E9%85%8D%E5%A5%97%E7%9A%844%E6%9D%A1%E5%AE%98%E6%96%B9%E6%8F%90%E7%A4%BA%E8%AF%8D-%E5%86%99%E8%BF%9B%E9%85%8D%E7%BD%AE%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8-%E7%94%BB%E4%B8%AD%E7%94%BB-07.png?download=1",
+          "mediaType": "image"
+        },
+        {
+          "name": "codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-08.png",
+          "url": "assets/fbabe54e151c54220cbb6cd5/pip/codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-08.png",
+          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/fbabe54e151c54220cbb6cd5/pip/codex6.2%E9%85%8D%E5%A5%97%E7%9A%844%E6%9D%A1%E5%AE%98%E6%96%B9%E6%8F%90%E7%A4%BA%E8%AF%8D-%E5%86%99%E8%BF%9B%E9%85%8D%E7%BD%AE%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8-%E7%94%BB%E4%B8%AD%E7%94%BB-08.png?download=1",
+          "mediaType": "image"
+        },
+        {
+          "name": "codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-09.png",
+          "url": "assets/fbabe54e151c54220cbb6cd5/pip/codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-09.png",
+          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/fbabe54e151c54220cbb6cd5/pip/codex6.2%E9%85%8D%E5%A5%97%E7%9A%844%E6%9D%A1%E5%AE%98%E6%96%B9%E6%8F%90%E7%A4%BA%E8%AF%8D-%E5%86%99%E8%BF%9B%E9%85%8D%E7%BD%AE%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8-%E7%94%BB%E4%B8%AD%E7%94%BB-09.png?download=1",
+          "mediaType": "image"
+        },
+        {
+          "name": "codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-10.png",
+          "url": "assets/fbabe54e151c54220cbb6cd5/pip/codex6.2配套的4条官方提示词-写进配置一劳永逸-画中画-10.png",
+          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/fbabe54e151c54220cbb6cd5/pip/codex6.2%E9%85%8D%E5%A5%97%E7%9A%844%E6%9D%A1%E5%AE%98%E6%96%B9%E6%8F%90%E7%A4%BA%E8%AF%8D-%E5%86%99%E8%BF%9B%E9%85%8D%E7%BD%AE%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8-%E7%94%BB%E4%B8%AD%E7%94%BB-10.png?download=1",
+          "mediaType": "image"
+        }
+      ],
+      "claimFiles": []
+    },
     {
       "id": "98d51eb51b739f0cc0259179",
       "title": "别研国产大模型 装上codex打开新世界大门",
-      "referencePreview": "",
+      "referencePreview": "assets/98d51eb51b739f0cc0259179/reference/preview.mp4",
       "overlayTitle": "别研国产大模型 装上codex打开新世界大门",
       "scriptText": "现在想用AI的，我给你指条明路，不要再去研究什么Kimi千问豆包DeepSeek，国内这些大模型你都不要用。你就给我想尽一切办法去装上一个codex，装好之后你就会发现你打开了一个新世界的大门，你根本就不需要去学任何模型，任何提示词，任何复杂的AI技术，这些都过时了。你也不需要去学一大堆的AI软件编程SOP，你只要告诉codex你要做什么，它就会自动帮你调用各种软件，帮你完成你想要的结果。我们现在有一个codex 的交流群，感兴趣的可以在评论区扣一个 codex 我拉你",
       "publishCopy": "codex 确实强#codex#workbuddy #ai入门#ai使用技巧",
@@ -359,7 +432,14 @@
       "publishCopy": "你的codex不加上这么一个全局规则，很有可能有一半以上的token被白白烧了#AI开发#OPC#Codex",
       "claimText": "之所以后面去修改代码的时候会小题大做、很复杂，其实本质还是 superpower 这个开发规范化的技能造成的。所以我们对这个技能做了一个很复杂的规范。\n\n你把这个发给 codex，它就可以帮你重新规范。后期开发的时候它就会做好区分，不会在修改小功能的时候也是全局去乱搞。\n\n你可以试一试，我试了还是很有效果的",
       "claimUrl": "",
-      "pip": [],
+      "pip": [
+        {
+          "name": "避免codex过度消耗-画中画-01.mp4",
+          "url": "assets/482974908344fbdcfa89e7fc/pip/避免codex过度消耗-画中画-01.mp4",
+          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/482974908344fbdcfa89e7fc/pip/%E9%81%BF%E5%85%8Dcodex%E8%BF%87%E5%BA%A6%E6%B6%88%E8%80%97-%E7%94%BB%E4%B8%AD%E7%94%BB-01.mp4?download=1",
+          "mediaType": "video"
+        }
+      ],
       "claimFiles": [
         {
           "name": "避免codex过度消耗-领取资料-01.docx",
@@ -436,7 +516,14 @@
       "publishCopy": "怎么样能让codex能力翻倍#Codex#GPT#ai#ai教程#skill",
       "claimText": "",
       "claimUrl": "",
-      "pip": [],
+      "pip": [
+        {
+          "name": "怎么样能让codex能力翻倍-画中画-01.mp4",
+          "url": "assets/6551b8588a9121f616bd6c34/pip/怎么样能让codex能力翻倍-画中画-01.mp4",
+          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/6551b8588a9121f616bd6c34/pip/%E6%80%8E%E4%B9%88%E6%A0%B7%E8%83%BD%E8%AE%A9codex%E8%83%BD%E5%8A%9B%E7%BF%BB%E5%80%8D-%E7%94%BB%E4%B8%AD%E7%94%BB-01.mp4?download=1",
+          "mediaType": "video"
+        }
+      ],
       "claimFiles": [
         {
           "name": "怎么样能让codex能力翻倍-领取资料-01.pdf",
@@ -903,9 +990,5 @@
       ]
     }
   ],
-  "skipped": [
-    "assets/98d51eb51b739f0cc0259179/reference/preview.mp4（GitHub 未接受）",
-    "assets/482974908344fbdcfa89e7fc/pip/避免codex过度消耗-画中画-01.mp4（GitHub 未接受）",
-    "assets/6551b8588a9121f616bd6c34/pip/怎么样能让codex能力翻倍-画中画-01.mp4（GitHub 未接受）"
-  ]
+  "skipped": []
 }
