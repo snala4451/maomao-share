@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T03:34:05.070Z",
+  "generatedAt": "2026-11-27T05:54:17.572Z",
   "items": [
     {
       "id": "fbabe54e151c54220cbb6cd5",
@@ -72,7 +72,14 @@
           "mediaType": "image"
         }
       ],
-      "claimFiles": []
+      "claimFiles": [
+        {
+          "name": "codex6.2配套的4条官方提示词-写进配置一劳永逸-领取资料-01.md",
+          "url": "assets/fbabe54e151c54220cbb6cd5/claim/codex6.2配套的4条官方提示词-写进配置一劳永逸-领取资料-01.md",
+          "downloadUrl": "https://github.com/snala4451/maomao-share/raw/refs/heads/main/assets/fbabe54e151c54220cbb6cd5/claim/codex6.2%E9%85%8D%E5%A5%97%E7%9A%844%E6%9D%A1%E5%AE%98%E6%96%B9%E6%8F%90%E7%A4%BA%E8%AF%8D-%E5%86%99%E8%BF%9B%E9%85%8D%E7%BD%AE%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8-%E9%A2%86%E5%8F%96%E8%B5%84%E6%96%99-01.md?download=1",
+          "mediaType": "text"
+        }
+      ]
     },
     {
       "id": "98d51eb51b739f0cc0259179",
